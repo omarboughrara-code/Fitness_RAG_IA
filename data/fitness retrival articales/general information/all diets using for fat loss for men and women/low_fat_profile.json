@@ -1,0 +1,100 @@
+{
+    "diet_style": "Low-Fat",
+    "scientific_profile": {
+        "purpose_overview": {
+            "goal": "Facilitate fat loss or weight management by reducing dietary fat intake, thereby lowering overall calorie density and shifting macronutrient emphasis toward carbohydrates and protein.",
+            "approach": "Limit total fat intake to ~20\u201330% of daily calories (sometimes <20% in stricter protocols) while maintaining adequate protein and sufficient carbohydrate for training fuel.",
+            "best_for": [
+                "Individuals who prefer high-carbohydrate food patterns",
+                "Athletes in sports requiring glycogen-heavy performance (endurance, HIIT)",
+                "People who struggle with calorie control when consuming high-fat foods",
+                "Those with cardiovascular risk factors who benefit from reduced saturated fat"
+            ],
+            "why_it_works": "Fat is energy-dense (9 kcal/g). Lowering fat intake reduces calorie density of meals, improving satiety per calorie. Carbohydrates support glycogen replenishment and training output, while protein preserves lean body mass."
+        },
+        "caloric_strategy": {
+            "maintenance_calculation": "Calculate TDEE via Mifflin-St Jeor or Cunningham.",
+            "fat_loss": "20\u201325% below TDEE, with fat at ~20% of calories.",
+            "muscle_gain": "10\u201315% surplus, keeping fat relatively low (20\u201325%).",
+            "body_recomposition": "Maintain calories, prioritize high protein (1.6\u20132.2 g/kg/day) and moderate carbs, low fat."
+        },
+        "macronutrient_breakdown": {
+            "protein": "1.6\u20132.2 g/kg/day",
+            "carbohydrates": "50\u201365% of kcal (3\u20137 g/kg/day depending on activity)",
+            "fats": "20\u201325% of kcal (minimum ~0.8 g/kg/day)",
+            "fiber": "25\u201340 g/day"
+        },
+        "meal_timing_distribution": {
+            "protein": "Spread evenly (0.3\u20130.45 g/kg per meal) across 3\u20136 meals.",
+            "carbohydrates": "Center intake around workouts (before and after) to maximize energy and recovery.",
+            "fats": "Keep portions small per meal, especially pre-workout.",
+            "hydration": "Prioritize water intake; higher carbs increase glycogen and water retention."
+        },
+        "food_quality_examples": {
+            "protein_lean": [
+                "Egg whites",
+                "Chicken breast",
+                "Turkey",
+                "White fish",
+                "Whey protein",
+                "Non-fat Greek yogurt",
+                "Cottage cheese"
+            ],
+            "carbohydrates": [
+                "Rice",
+                "Oats",
+                "Potatoes",
+                "Quinoa",
+                "Legumes",
+                "Beans",
+                "Whole grains",
+                "Fruits",
+                "Vegetables"
+            ],
+            "fats_small_portions": [
+                "Olive oil",
+                "Nuts",
+                "Seeds",
+                "Avocado"
+            ],
+            "low_fat_staples": [
+                "Skim milk",
+                "Low-fat dairy",
+                "High-carb fruits (bananas, apples, berries)"
+            ]
+        },
+        "supplements_optional": [
+            "Whey/Plant Protein Powder \u2013 Helps achieve protein goals.",
+            "Creatine Monohydrate \u2013 Enhances strength, lean mass, and recovery.",
+            "Omega-3 Fish Oil/Algae Oil \u2013 Ensures essential fatty acid intake when dietary fat is low.",
+            "Multivitamin \u2013 Supports micronutrient sufficiency with reduced fat-soluble vitamin intake.",
+            "Electrolytes \u2013 Useful for athletes with high carb + hydration needs."
+        ],
+        "monitoring_adjustments": {
+            "body_weight": "Weekly average \u2013 Adjust calories if plateau >2 weeks.",
+            "training_performance": "Weekly \u2013 Monitor glycogen availability and adjust carbs as needed.",
+            "satiety_energy": "Ongoing \u2013 If hunger increases, increase protein or fiber intake.",
+            "blood_work": "Every 6\u201312 months \u2013 Monitor cholesterol and fat-soluble vitamins."
+        },
+        "advantages": [
+            "Calorie reduction is easier due to lower dietary fat density.",
+            "Supports high carbohydrate intake for athletes and active individuals.",
+            "May reduce LDL cholesterol and cardiovascular risk.",
+            "Simple to follow with widely available food options.",
+            "Well-studied in controlled fat-loss settings."
+        ],
+        "limitations": [
+            "Too little dietary fat can impair hormone production, vitamin absorption, and satiety.",
+            "Some may feel hungry due to lower fat\u2019s slower gastric emptying vs. protein/fiber.",
+            "Taste/satisfaction may decrease for individuals who enjoy higher-fat foods.",
+            "Long-term sustainability varies based on personal preference."
+        ],
+        "scientific_references": [
+            "Bray GA & Popkin BM (1998). Dietary fat intake does affect obesity! Am J Clin Nutr, 68(6):1157\u20131173.",
+            "Hall KD et al. (2015). Calorie for calorie, dietary fat restriction results in more body fat loss than carbohydrate restriction. Cell Metab, 22(3):427\u2013436.",
+            "Astrup A et al. (2000). The role of low-fat diets in body weight control: A meta-analysis of ad libitum dietary intervention studies. Int J Obes Relat Metab Disord, 24(12):1545\u20131552.",
+            "Institute of Medicine (2005). Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids. National Academies Press.",
+            "Hooper L et al. (2020). Reduction in saturated fat intake for cardiovascular disease. Cochrane Database Syst Rev, (5)."
+        ]
+    }
+}

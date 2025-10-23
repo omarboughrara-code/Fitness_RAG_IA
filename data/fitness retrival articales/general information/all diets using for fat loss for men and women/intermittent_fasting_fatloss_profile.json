@@ -1,0 +1,118 @@
+{
+    "diet_style": "Intermittent Fasting (16/8, 18/6, 20/4)",
+    "scientific_profile": {
+        "purpose_overview": {
+            "goal": "Achieve fat loss and body recomposition by restricting the daily eating window while maintaining caloric control.",
+            "approach": "Time-restricted feeding (TRF) with fasting windows of 16, 18, or 20 hours, and feeding windows of 8, 6, or 4 hours respectively. Total daily calories and macronutrients remain the key driver of fat loss.",
+            "best_for": "Intermediate\u2013advanced dieters, people who prefer fewer/larger meals, those with busy lifestyles, or those who struggle with grazing/snacking.",
+            "why_it_works": "Fasting helps naturally reduce calorie intake, may improve insulin sensitivity, appetite control, and metabolic flexibility (Tinsley & La Bounty, JISSN, 2015)."
+        },
+        "caloric_strategy": {
+            "maintenance_calculation": "Estimate TDEE using Mifflin-St Jeor or Cunningham equation.",
+            "deficit": "Reduce 15\u201325% (\u2248 500\u2013750 kcal/day for most).",
+            "target_weight_loss": "0.5\u20131.0% body weight per week (e.g., 0.4\u20130.8 kg for an 80 kg person).",
+            "adjustment_tip": "If fat loss plateaus >2 weeks, reduce intake by 150\u2013250 kcal/day or increase NEAT/cardio."
+        },
+        "macronutrient_breakdown": {
+            "protein": "1.8\u20132.4 g/kg/day",
+            "carbohydrates": "3\u20135 g/kg/day (adjusted to activity level)",
+            "fats": "20\u201330% of total kcal",
+            "fiber": "25\u201335 g/day",
+            "rationale": {
+                "protein": "Preserves lean muscle mass during calorie restriction. Higher protein helps offset fewer meal opportunities (Morton et al., 2018).",
+                "carbohydrates": "Fuels training, supports recovery, preserves performance.",
+                "fats": "Supports hormones, satiety, and absorption of fat-soluble vitamins.",
+                "fiber": "Improves satiety, digestion, and gut health."
+            }
+        },
+        "meal_timing_distribution": {
+            "feeding_windows": {
+                "16_8": "12:00\u201320:00 (most common).",
+                "18_6": "14:00\u201320:00.",
+                "20_4": "16:00\u201320:00 (advanced, not optimal for training athletes)."
+            },
+            "meal_frequency": {
+                "16_8": "2\u20134 meals/snacks.",
+                "18_6": "2\u20133 meals/snacks.",
+                "20_4": "1\u20132 very large meals."
+            },
+            "protein_distribution": "0.4\u20130.55 g/kg per meal \u00d7 2\u20134 meals (Schoenfeld & Aragon, JISSN, 2018).",
+            "training_integration": {
+                "fasted_training": "Consider EAAs/BCAAs (~10 g) or whey hydrolysate pre/intra to reduce muscle breakdown.",
+                "pre_workout": "Balanced meal 2\u20133 hr before, protein + complex carbs (if inside feeding window).",
+                "post_workout": "20\u201340 g protein + 0.8\u20131.2 g/kg carbs within 2 hr (first meal if fasted)."
+            },
+            "hydration": "35\u201345 ml/kg/day water. Black coffee, tea, and zero-calorie drinks allowed during fasting. Electrolytes recommended during long fasts, hot climates, or heavy sweat sessions."
+        },
+        "food_quality_examples": {
+            "protein": [
+                "Chicken",
+                "Turkey",
+                "Lean beef",
+                "Fish",
+                "Eggs",
+                "Greek yogurt",
+                "Cottage cheese",
+                "Tofu",
+                "Tempeh",
+                "Whey/Plant protein powders"
+            ],
+            "carbohydrates": [
+                "Rice",
+                "Oats",
+                "Quinoa",
+                "Potatoes",
+                "Whole-grain bread/pasta",
+                "Fruits",
+                "Vegetables",
+                "Legumes"
+            ],
+            "fats": [
+                "Avocado",
+                "Nuts",
+                "Seeds",
+                "Olive oil",
+                "Fatty fish"
+            ],
+            "if_friendly_dense_foods": [
+                "Smoothies",
+                "Wraps",
+                "Rice bowls",
+                "Trail mix",
+                "Nut butters",
+                "Meal replacement shakes"
+            ]
+        },
+        "supplements_optional": [
+            "Creatine Monohydrate (3\u20135 g/day) \u2013 Preserves strength and lean mass.",
+            "Whey/Plant Protein \u2013 Helps meet protein targets within limited meals.",
+            "Vitamin D & Omega-3 \u2013 Common deficiencies, aid health & recovery.",
+            "Caffeine (3\u20136 mg/kg pre-workout) \u2013 Boosts performance, especially in fasted training.",
+            "Electrolytes \u2013 Beneficial in fasted training or high sweat conditions."
+        ],
+        "monitoring_adjustments": {
+            "body_weight": "Weekly average \u2013 If <0.5% body weight loss for 2+ weeks, reduce calories or increase activity.",
+            "strength_progress": "Weekly \u2013 If performance drops, increase carbs around training or slightly extend feeding window.",
+            "body_composition": "Every 4\u20136 weeks \u2013 Use progress photos, BIA, or skinfolds."
+        },
+        "advantages": [
+            "Simplifies eating schedule \u2013 fewer decisions.",
+            "Large, satisfying meals within window.",
+            "May improve insulin sensitivity & metabolic health markers.",
+            "Useful for appetite control and snacking reduction."
+        ],
+        "limitations": [
+            "Can be hard to hit calorie/protein targets in short windows (especially 20/4).",
+            "Not optimal for athletes needing frequent carb fueling.",
+            "Training performance may suffer if fasted.",
+            "Social eating constraints (e.g., breakfast events)."
+        ],
+        "scientific_references": [
+            "Tinsley GM & La Bounty PM (2015). Effects of intermittent fasting on body composition and clinical health markers. J Int Soc Sports Nutr, 12:47.",
+            "Morton RW et al. (2018). Protein supplementation on resistance training-induced gains in muscle mass and strength. Br J Sports Med, 52(6):376\u2013384.",
+            "Schoenfeld BJ & Aragon AA (2018). How much protein can the body use in a single meal for muscle-building? J Int Soc Sports Nutr, 15:10.",
+            "Kerksick CM et al. (2017). ISSN position stand: nutrient timing. J Int Soc Sports Nutr, 14:33.",
+            "American College of Sports Medicine (2022). Nutrition and Athletic Performance Position Stand."
+        ]
+    }
+}

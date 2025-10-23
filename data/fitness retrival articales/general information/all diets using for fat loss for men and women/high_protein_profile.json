@@ -1,0 +1,105 @@
+{
+    "diet_style": "High-Protein",
+    "scientific_profile": {
+        "purpose_overview": {
+            "goal": "Support fat loss, preserve/build lean muscle mass, and enhance recovery by prioritizing a higher proportion of daily calories from protein.",
+            "approach": "Increase protein intake significantly above the standard RDA (0.8 g/kg/day) into the 1.6\u20132.4 g/kg/day range, while balancing carbohydrates and fats according to individual goals.",
+            "best_for": [
+                "Individuals in fat-loss phases (cutting)",
+                "Strength & endurance athletes",
+                "Older adults (prevent sarcopenia)",
+                "Those with high satiety needs or prone to overeating"
+            ],
+            "why_it_works": "Protein has the highest thermic effect (20\u201330% of calories burned during digestion), strongly supports satiety, and is essential for muscle protein synthesis."
+        },
+        "caloric_strategy": {
+            "maintenance_calculation": "Determine TDEE (Mifflin-St Jeor or Cunningham).",
+            "fat_loss": "15\u201325% below TDEE. Protein intake protects lean mass.",
+            "muscle_gain": "10\u201315% surplus with elevated protein to maximize MPS.",
+            "body_recomposition": "Maintenance calories + higher protein intake (2.0\u20132.4 g/kg/day) can favor fat loss and muscle gain simultaneously."
+        },
+        "macronutrient_breakdown": {
+            "protein": "1.6\u20132.4 g/kg/day (up to 3.0 g/kg/day in aggressive cuts).",
+            "carbohydrates": "3\u20135 g/kg/day (athletes) or 2\u20133 g/kg/day (general population).",
+            "fats": "20\u201330% of total kcal.",
+            "fiber": "25\u201335 g/day from fruits, vegetables, legumes, whole grains."
+        },
+        "meal_timing_distribution": {
+            "protein_distribution": "Spread evenly \u2014 0.4\u20130.55 g/kg per meal across 3\u20136 meals.",
+            "pre_workout": "Protein + carbs 2\u20133 hours before training.",
+            "post_workout": "20\u201340 g high-quality protein within 2 hours, ideally with carbs.",
+            "pre_sleep": "30\u201340 g slow-digesting protein (e.g., casein, Greek yogurt).",
+            "hydration": "35\u201345 ml/kg/day; increased protein requires adequate fluid intake."
+        },
+        "food_quality_examples": {
+            "protein_lean": [
+                "Chicken",
+                "Turkey",
+                "Egg whites",
+                "White fish",
+                "Whey protein",
+                "Cottage cheese",
+                "Greek yogurt"
+            ],
+            "protein_moderate_fat": [
+                "Eggs",
+                "Beef",
+                "Salmon",
+                "Pork",
+                "Tofu",
+                "Tempeh",
+                "Seitan",
+                "Lentils"
+            ],
+            "carbohydrates": [
+                "Rice",
+                "Oats",
+                "Potatoes",
+                "Quinoa",
+                "Whole grains",
+                "Fruits",
+                "Vegetables"
+            ],
+            "fats": [
+                "Avocado",
+                "Nuts",
+                "Seeds",
+                "Olive oil",
+                "Fatty fish"
+            ]
+        },
+        "supplements_optional": [
+            "Whey/Casein Protein \u2013 Convenient to hit daily protein targets.",
+            "Creatine Monohydrate (3\u20135 g/day) \u2013 Enhances strength, lean mass, and recovery.",
+            "Collagen + Vitamin C \u2013 Supports joint and connective tissue health.",
+            "BCAAs/EAAs \u2013 Useful if training fasted, otherwise unnecessary with sufficient protein intake.",
+            "Omega-3s \u2013 Supports inflammation control and recovery."
+        ],
+        "monitoring_adjustments": {
+            "body_weight": "Weekly average \u2013 Adjust calories if progress stalls for >2 weeks.",
+            "strength_performance": "Weekly \u2013 Ensure protein + carbs support training.",
+            "satiety_digestion": "Ongoing \u2013 Balance fiber and hydration.",
+            "body_composition": "Every 4\u20136 weeks \u2013 Track muscle preservation/gains."
+        },
+        "advantages": [
+            "Preserves and builds muscle mass in both surplus and deficit.",
+            "Reduces hunger and improves diet adherence.",
+            "Supports metabolic rate via thermic effect of food (TEF).",
+            "Safe and effective for athletes and general population.",
+            "May improve body composition in recomposition phases."
+        ],
+        "limitations": [
+            "Requires planning to distribute protein across meals.",
+            "High intake may be difficult for some without supplementation.",
+            "Social/cultural eating patterns may emphasize carbs/fats over protein.",
+            "Misconception of kidney strain \u2013 safe in healthy individuals, caution with kidney disease."
+        ],
+        "scientific_references": [
+            "Morton RW et al. (2018). Effect of protein supplementation on resistance training-induced gains in muscle mass and strength. Br J Sports Med, 52(6):376\u2013384.",
+            "Schoenfeld BJ & Aragon AA (2018). How much protein can the body use in a single meal for muscle-building? J Int Soc Sports Nutr, 15:10.",
+            "Phillips SM & Van Loon LJC (2011). Dietary protein for athletes: from requirements to optimum adaptation. J Sports Sci, 29(sup1):S29\u2013S38.",
+            "Antonio J et al. (2014). A high protein diet (3.4 g/kg/d) combined with resistance training has no harmful effects on renal function in healthy men. J Nutr Metab, 2016.",
+            "Poortmans JR & Dellalieux O (2000). Do regular high protein diets have potential health risks on kidney function in athletes? Int J Sport Nutr Exerc Metab, 10(1):28\u201338."
+        ]
+    }
+}

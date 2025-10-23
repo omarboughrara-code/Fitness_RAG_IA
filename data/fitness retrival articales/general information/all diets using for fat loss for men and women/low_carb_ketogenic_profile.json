@@ -1,0 +1,104 @@
+{
+    "diet_style": "Low-Carbohydrate / Ketogenic",
+    "scientific_profile": {
+        "purpose_overview": {
+            "goal": "Facilitate fat loss, improve metabolic flexibility, and stabilize blood sugar through a significant reduction in carbohydrate intake.",
+            "approach": "Replace most dietary carbohydrates with fats as the primary energy source. When carbs are very low (<50 g/day), the body shifts into ketosis, producing ketone bodies (\u03b2-hydroxybutyrate, acetoacetate) as alternative fuels.",
+            "best_for": "Individuals struggling with appetite control, insulin resistance, metabolic syndrome, or those preferring higher-fat foods. Also used in certain medical contexts (e.g., epilepsy).",
+            "why_it_works": "Reduces insulin levels, enhances satiety, naturally lowers calorie intake, and promotes reliance on fat oxidation (Westman et al., 2007; Hallberg et al., 2018)."
+        },
+        "caloric_strategy": {
+            "maintenance_calculation": "Estimate TDEE (Mifflin-St Jeor or Cunningham).",
+            "fat_loss_deficit": "15\u201325% below TDEE.",
+            "target_weight_loss": "0.5\u20131.0% body weight per week.",
+            "note": "Ketogenic diets often result in rapid initial weight loss due to glycogen and water depletion. True fat loss should be monitored via long-term averages."
+        },
+        "macronutrient_breakdown": {
+            "carbohydrates": "5\u201310% of total kcal (20\u201350 g/day) \u2013 Induces and maintains ketosis.",
+            "protein": "1.6\u20132.2 g/kg/day \u2013 Preserves lean mass without excessive gluconeogenesis.",
+            "fats": "65\u201375% of total kcal \u2013 Primary energy source. Include mono- & polyunsaturated fats.",
+            "fiber": "20\u201330 g/day (from low-carb vegetables, nuts, seeds) \u2013 Supports digestion, satiety, gut health."
+        },
+        "meal_timing_distribution": {
+            "meal_frequency": "Flexible (2\u20134 meals/day). Satiety is typically higher, so fewer meals may suffice.",
+            "training_integration": {
+                "strength_training": "Adequate protein intake is critical.",
+                "endurance_training": "Ketogenic adaptation may enhance fat oxidation but may impair high-intensity glycogen-dependent efforts.",
+                "targeted_keto": "20\u201350 g carbs pre-/post-workout can support performance without fully disrupting ketosis.",
+                "cyclical_keto": "1\u20132 days/week of higher carb intake (refeed days) may support glycogen replenishment in athletes."
+            },
+            "hydration_electrolytes": "Increase sodium (3\u20135 g/day), potassium, and magnesium intake to counteract electrolyte loss (\u201cketo flu\u201d prevention)."
+        },
+        "food_quality_examples": {
+            "protein": [
+                "Beef",
+                "Poultry",
+                "Pork",
+                "Eggs",
+                "Fish",
+                "Seafood",
+                "Whey/Plant protein isolate"
+            ],
+            "fats": [
+                "Olive oil",
+                "Avocado",
+                "Nuts",
+                "Seeds",
+                "Coconut oil",
+                "Fatty fish",
+                "Butter",
+                "Ghee"
+            ],
+            "carbohydrates_low_carb": [
+                "Leafy greens",
+                "Cruciferous vegetables",
+                "Zucchini",
+                "Mushrooms",
+                "Peppers",
+                "Berries (moderation)"
+            ],
+            "keto_friendly_staples": [
+                "Cheese",
+                "Cream",
+                "Nut butters",
+                "Seeds",
+                "Sugar-free beverages"
+            ]
+        },
+        "supplements_optional": [
+            "Electrolytes (Na, K, Mg) \u2013 Prevent cramps, fatigue, headaches during adaptation.",
+            "MCT Oil (10\u201330 g/day) \u2013 Quick energy source, boosts ketone production.",
+            "Creatine (3\u20135 g/day) \u2013 Preserves strength/power performance.",
+            "Omega-3 Fish Oil \u2013 Anti-inflammatory, supports cardiovascular health.",
+            "Vitamin D & Multivitamin \u2013 Prevent micronutrient deficiencies.",
+            "Exogenous Ketones \u2013 May acutely raise blood ketone levels, evidence mixed."
+        ],
+        "monitoring_adjustments": {
+            "body_weight": "Weekly average \u2013 Expect rapid initial drop (water weight), then steady fat loss.",
+            "ketone_levels": "1\u20133x/week \u2013 Blood ketones (0.5\u20133.0 mmol/L = nutritional ketosis).",
+            "strength_performance": "Weekly \u2013 If performance drops, consider TKD/CKD adjustments.",
+            "body_composition": "Every 4\u20136 weeks \u2013 Photos, skinfolds, BIA, or DXA."
+        },
+        "advantages": [
+            "Strong appetite suppression (spontaneous calorie reduction).",
+            "Effective for individuals with insulin resistance or metabolic syndrome.",
+            "Improves triglycerides, HDL, and blood sugar control.",
+            "Simple rules (low carb/high fat) improve adherence for some.",
+            "May improve mental focus/energy after adaptation."
+        ],
+        "limitations": [
+            "Keto adaptation period (1\u20133 weeks) can cause fatigue, brain fog, 'keto flu'.",
+            "May reduce performance in high-intensity anaerobic training.",
+            "Social/food environment limitations (carb-heavy settings).",
+            "Fiber intake may be inadequate if vegetable/nut intake is low.",
+            "Requires careful electrolyte management."
+        ],
+        "scientific_references": [
+            "Westman EC et al. (2007). Low-carbohydrate nutrition and metabolism. Am J Clin Nutr, 86(2):276\u2013284.",
+            "Hallberg SJ et al. (2018). Effectiveness and safety of a novel care model for the management of type 2 diabetes at 1 year. Diabetes Ther, 9:583\u2013612.",
+            "Volek JS & Phinney SD (2011). The Art and Science of Low Carbohydrate Performance. Beyond Obesity LLC.",
+            "Burke LM (2021). Ketogenic low-carbohydrate diets for endurance and elite athletes: balancing risk and reward. Sports Med, 51:207\u2013224.",
+            "Paoli A (2014). Ketogenic diet for obesity: friend or foe? Int J Environ Res Public Health, 11(2):2092\u20132107."
+        ]
+    }
+}

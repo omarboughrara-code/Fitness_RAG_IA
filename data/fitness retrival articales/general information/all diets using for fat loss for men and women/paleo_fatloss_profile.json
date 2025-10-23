@@ -1,0 +1,102 @@
+{
+    "diet_style": "Paleo-Inspired (Fat Loss)",
+    "scientific_profile": {
+        "purpose_overview": {
+            "goal": "Facilitate fat loss while supporting lean muscle retention, metabolic health, and appetite control.",
+            "approach": "Eliminate grains, legumes, dairy, refined sugar, and processed foods. Focus on lean animal proteins, fish, vegetables, fruits, nuts, seeds, and healthy fats with a moderate caloric deficit (\u224815\u201325% below TDEE).",
+            "best_for": [
+                "Individuals seeking fat loss through whole-food nutrition",
+                "People preferring grain-free, dairy-free approaches",
+                "Those motivated by satiety-focused, minimally processed eating"
+            ],
+            "why_it_works": "Naturally increases protein and fiber, reduces calorie density and processed food intake, enhancing satiety and reducing overeating. Supported by trials showing improved weight reduction and metabolic markers."
+        },
+        "caloric_strategy": {
+            "maintenance": "Estimate TDEE using Mifflin-St Jeor, Cunningham, or activity multipliers.",
+            "fat_loss": "15\u201325% below TDEE for ~0.5\u20131% body weight loss per week.",
+            "muscle_gain": "Possible with surplus and structured training, though not the main goal.",
+            "body_recomposition": "At maintenance, high protein + resistance training may improve lean-to-fat ratio."
+        },
+        "macronutrient_breakdown": {
+            "protein": "1.8\u20132.4 g/kg/day from lean meats, fish, eggs.",
+            "carbohydrates": "25\u201340% of kcal from fruits, root vegetables, and non-starchy vegetables.",
+            "fats": "30\u201340% of kcal from avocados, nuts, seeds, olive oil, fatty fish.",
+            "fiber": "25\u201340 g/day from fruits, vegetables, nuts, seeds."
+        },
+        "meal_timing_distribution": {
+            "meals": "2\u20134 per day, adjusted to hunger and activity.",
+            "protein_distribution": "0.4\u20130.5 g/kg per meal.",
+            "pre_workout": "Moderate carb + lean protein (e.g., sweet potato + chicken/fish).",
+            "post_workout": "Lean protein + starchy vegetable + fruit (e.g., salmon + roasted potatoes + berries).",
+            "evening_meal": "Vegetable-heavy, moderate protein, healthy fats.",
+            "hydration": "Emphasize water, tea, or coffee without sugar."
+        },
+        "food_quality_examples": {
+            "protein": [
+                "Chicken",
+                "Turkey",
+                "Lean beef",
+                "Eggs",
+                "Fish",
+                "Seafood",
+                "Game meats"
+            ],
+            "carbohydrates": [
+                "Sweet potatoes",
+                "Yams",
+                "Squash",
+                "Fruits (berries, apples, bananas)",
+                "Root vegetables",
+                "Leafy greens"
+            ],
+            "fats": [
+                "Olive oil",
+                "Avocado",
+                "Nuts",
+                "Seeds",
+                "Coconut oil",
+                "Fatty fish"
+            ],
+            "eliminated_restricted": [
+                "Grains",
+                "Legumes",
+                "Dairy",
+                "Refined sugars",
+                "Ultra-processed foods"
+            ]
+        },
+        "supplements_recommended": [
+            "Vitamin D3 \u2013 Supports bone health and immunity.",
+            "Omega-3 (Fish oil) \u2013 If fatty fish intake <2x/week.",
+            "Calcium \u2013 Since dairy is excluded; consider leafy greens, fish with bones, or supplements.",
+            "Creatine Monohydrate \u2013 Enhances training and lean mass retention.",
+            "Magnesium \u2013 May be beneficial due to lack of whole grains."
+        ],
+        "monitoring_adjustments": {
+            "body_weight": "Weekly average \u2013 Adjust calories by 5\u201310% if plateau >2 weeks.",
+            "performance_recovery": "Weekly \u2013 Ensure adequate carbohydrate intake for training.",
+            "energy_levels": "Daily \u2013 Adjust carb/fat ratio depending on training intensity.",
+            "blood_work": "Every 6\u201312 months \u2013 Monitor vitamin D, calcium, and lipid profile."
+        },
+        "advantages": [
+            "High protein and fiber \u2192 strong satiety and appetite control.",
+            "Eliminates refined sugars and processed foods \u2192 reduces overeating.",
+            "Improves metabolic markers (blood glucose, triglycerides, blood pressure).",
+            "Whole-food emphasis aligns with nutrient density.",
+            "Flexible for fat loss or maintenance when planned properly."
+        ],
+        "limitations": [
+            "Restrictive: excludes grains, legumes, and dairy.",
+            "May increase grocery costs and preparation time.",
+            "Potential nutrient deficiencies (calcium, vitamin D, iodine).",
+            "Less suitable for vegetarians/vegans.",
+            "Not a one-size-fits-all solution \u2014 personalization required."
+        ],
+        "scientific_references": [
+            "J\u00f6nsson T et al. (2009). A Paleolithic diet improves glucose tolerance more than a Mediterranean-like diet in individuals with ischemic heart disease. Diabetologia, 52(9):1795\u20131807.",
+            "Manheimer EW et al. (2015). Paleolithic nutrition for metabolic syndrome: systematic review and meta-analysis. Am J Clin Nutr, 102(4):922\u2013932.",
+            "Osterdahl M et al. (2008). Effects of a short-term intervention with a paleolithic diet in healthy volunteers. Eur J Clin Nutr, 62(5):682\u2013685.",
+            "Genoni A et al. (2016). Paleolithic diet versus traditional diets on weight loss and metabolic outcomes. Nutrients, 8(10):688."
+        ]
+    }
+}

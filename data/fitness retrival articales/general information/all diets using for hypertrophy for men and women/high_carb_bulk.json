@@ -1,0 +1,125 @@
+{
+  "diet_style": "High-Carb Bulk",
+  "category": "Hypertrophy",
+  "purpose_overview": {
+    "goal": "Maximize muscle hypertrophy and training performance by emphasizing carbohydrate intake",
+    "approach": "Moderate-to-high caloric surplus (10\u201320%) with high carbohydrate intake (5\u20137 g/kg/day or higher)",
+    "best_for": [
+      "Advanced bodybuilders",
+      "Strength athletes",
+      "Athletes performing high-volume resistance training or multiple daily sessions",
+      "Individuals with fast metabolisms or high carb tolerance"
+    ],
+    "scientific_basis": [
+      "High carbohydrate availability optimizes glycogen stores",
+      "Supports higher training volume and intensity",
+      "Spares protein for muscle building"
+    ]
+  },
+  "caloric_strategy": {
+    "maintenance_calculation": "Estimate TDEE using Mifflin-St Jeor or Cunningham equation",
+    "surplus": "Add 10\u201320% (~300\u2013600 kcal/day) and adjust weekly based on weight trends",
+    "target_weight_gain": "0.25\u20130.5% of body weight per week"
+  },
+  "macronutrient_breakdown": {
+    "protein": "1.6\u20132.0 g/kg/day",
+    "carbohydrates": "5\u20137 g/kg/day (up to 8\u201310 g/kg for extreme training)",
+    "fats": "15\u201325% of total calories",
+    "fiber": "25\u201335 g/day",
+    "rationale": {
+      "protein": "Sufficient for maximal protein synthesis (Morton et al., 2018)",
+      "carbohydrates": "Fuels glycogen replenishment and performance (Burke et al., 2017)",
+      "fats": "Lower fat percentage allows more carbs while maintaining hormonal health"
+    }
+  },
+  "meal_timing_distribution": {
+    "meals_per_day": "4\u20136 meals/snacks to distribute carbs evenly",
+    "protein_distribution": "20\u201340 g per meal spaced every 3\u20135 hr",
+    "pre_workout": {
+      "2_3_hours_before": "Moderate-to-high carbs (e.g., pasta or rice), lean protein, and low fat",
+      "30_60_min_before": "Optional simple carbs for a quick energy boost"
+    },
+    "post_workout": "Within 2 hr: 20\u201340 g protein + 1\u20131.5 g/kg carbs",
+    "hydration": "40\u201350 ml water/kg/day; include electrolytes for heavy sweat sessions"
+  },
+  "food_quality_examples": {
+    "protein_sources": [
+      "Chicken",
+      "Turkey",
+      "Fish",
+      "Lean beef",
+      "Eggs",
+      "Greek yogurt",
+      "Cottage cheese",
+      "Whey protein",
+      "Plant protein"
+    ],
+    "carbohydrate_sources": [
+      "White rice",
+      "Brown rice",
+      "Oats",
+      "Quinoa",
+      "Pasta",
+      "Potatoes",
+      "Sweet potatoes",
+      "Fruits",
+      "Whole-grain bread",
+      "Legumes",
+      "Sports drinks"
+    ],
+    "fat_sources": [
+      "Avocado",
+      "Olive oil",
+      "Nuts",
+      "Seeds",
+      "Fatty fish"
+    ],
+    "snacks_extras": [
+      "Smoothies with oats and protein",
+      "Rice cakes with jam",
+      "Cereal with milk",
+      "Dried fruits"
+    ]
+  },
+  "supplements_optional": [
+    {
+      "name": "Creatine Monohydrate",
+      "dose": "3\u20135 g/day",
+      "evidence": "Proven to enhance strength and power"
+    },
+    {
+      "name": "Whey or Plant Protein",
+      "dose": "As needed",
+      "evidence": "Convenient protein source to meet intake"
+    },
+    {
+      "name": "Carb Powders",
+      "note": "Useful for intra- or post-workout carb boosts"
+    },
+    {
+      "name": "Beta-Alanine or Citrulline Malate",
+      "note": "May improve high-volume training performance"
+    }
+  ],
+  "monitoring_adjustments": {
+    "body_weight": "Track weekly averages; increase carbs by 5\u201310% if weight gain stalls",
+    "training_performance": "Monitor fatigue; ensure carbs are sufficient pre- and post-workout",
+    "body_composition": "Check every 4\u20136 weeks to monitor fat gain and adjust accordingly"
+  },
+  "advantages": [
+    "Maximizes glycogen storage for higher training intensity and volume",
+    "Provides quick energy and reduces perceived exertion",
+    "Ideal for hard gainers or athletes with high caloric needs"
+  ],
+  "limitations": [
+    "May not suit individuals prone to fat gain or insulin resistance",
+    "Requires fiber and food volume management to avoid GI discomfort",
+    "Can be challenging for those with lower appetites"
+  ],
+  "references": [
+    "Morton RW et al. (2018). Br J Sports Med, 52(6):376-384.",
+    "Burke LM et al. (2017). J Appl Physiol, 122(4):1025-1038.",
+    "Kerksick CM et al. (2017). J Int Soc Sports Nutr, 14:33.",
+    "American College of Sports Medicine (2022). Nutrition and Athletic Performance Position Stand."
+  ]
+}

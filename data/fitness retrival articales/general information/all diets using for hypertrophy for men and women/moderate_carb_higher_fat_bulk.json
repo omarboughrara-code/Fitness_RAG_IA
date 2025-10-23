@@ -1,0 +1,120 @@
+{
+  "diet_style": "Moderate-Carb / Higher-Fat Bulk",
+  "category": "Hypertrophy",
+  "purpose_overview": {
+    "goal": "Support muscle hypertrophy while controlling fat gain by emphasizing higher dietary fats and moderate carbohydrates",
+    "approach": "Moderate caloric surplus (10\u201315%) with 35\u201340% of calories from fat and carbs at 3\u20134 g/kg/day",
+    "best_for": [
+      "Individuals prone to fat gain on high-carb bulks",
+      "Endomorph body types or those with lower carbohydrate tolerance",
+      "Athletes in sports or phases where glycogen demand is moderate (e.g., strength-focused blocks)"
+    ],
+    "scientific_basis": [
+      "Higher fat intake maintains anabolic hormones like testosterone",
+      "Provides calorie density for appetite control",
+      "Reduces insulin spikes for carb-sensitive individuals"
+    ]
+  },
+  "caloric_strategy": {
+    "maintenance_calculation": "Estimate TDEE via Mifflin-St Jeor or Cunningham equation",
+    "surplus": "Add 10\u201315% (~200\u2013400 kcal/day)",
+    "target_weight_gain": "0.25\u20130.5% of body weight per week"
+  },
+  "macronutrient_breakdown": {
+    "protein": "1.6\u20132.2 g/kg/day",
+    "carbohydrates": "3\u20134 g/kg/day",
+    "fats": "35\u201340% of total calories",
+    "fiber": "25\u201335 g/day",
+    "rationale": {
+      "protein": "Supports muscle protein synthesis (Morton et al., 2018)",
+      "carbohydrates": "Sufficient for glycogen replenishment without excessive spikes",
+      "fats": "Supports hormones and increases caloric density (Volek et al., 2015)"
+    }
+  },
+  "meal_timing_distribution": {
+    "meals_per_day": "3\u20135 balanced meals/snacks",
+    "protein_distribution": "20\u201340 g per meal every 3\u20135 hr",
+    "pre_workout": {
+      "2_3_hours_before": "Moderate carbs + lean protein, small amounts of healthy fats",
+      "30_60_min_before": "Optional small carb snack"
+    },
+    "post_workout": "Within 2 hr: 20\u201340 g protein + 0.8\u20131 g/kg carbs",
+    "hydration": "35\u201345 ml/kg/day; electrolytes if training intensely"
+  },
+  "food_quality_examples": {
+    "protein_sources": [
+      "Chicken",
+      "Lean beef",
+      "Fish",
+      "Eggs",
+      "Greek yogurt",
+      "Cottage cheese",
+      "Tofu",
+      "Tempeh"
+    ],
+    "carbohydrate_sources": [
+      "Brown rice",
+      "Oats",
+      "Quinoa",
+      "Sweet potatoes",
+      "Whole-grain bread",
+      "Fruits",
+      "Legumes"
+    ],
+    "fat_sources": [
+      "Avocado",
+      "Olive oil",
+      "Nuts",
+      "Seeds",
+      "Fatty fish",
+      "Nut butters",
+      "Coconut oil"
+    ],
+    "snacks_extras": [
+      "Greek yogurt with nuts",
+      "Protein shakes with almond butter",
+      "Trail mix"
+    ]
+  },
+  "supplements_optional": [
+    {
+      "name": "Creatine Monohydrate",
+      "dose": "3\u20135 g/day",
+      "evidence": "Enhances strength and lean mass"
+    },
+    {
+      "name": "Whey or Plant Protein Powder",
+      "dose": "As needed",
+      "evidence": "Convenient protein source"
+    },
+    {
+      "name": "Omega-3 Fatty Acids",
+      "note": "Supports cardiovascular and joint health"
+    },
+    {
+      "name": "Vitamin D",
+      "note": "Beneficial if sun exposure is limited"
+    }
+  ],
+  "monitoring_adjustments": {
+    "body_weight": "Track weekly; adjust surplus if gain exceeds 0.5%/week",
+    "energy_levels": "Increase carbs slightly if workouts feel sluggish",
+    "body_composition": "Evaluate every 4\u20136 weeks for fat gain"
+  },
+  "advantages": [
+    "Better suited for those who gain fat quickly on high-carb diets",
+    "Higher fat intake can improve appetite control and hormone support",
+    "Easier to hit calorie targets for people with smaller appetites"
+  ],
+  "limitations": [
+    "Lower carb intake may reduce performance for very high-volume training",
+    "Requires careful fat source selection to maintain cardiovascular health",
+    "Muscle glycogen replenishment may be slower after intense sessions"
+  ],
+  "references": [
+    "Morton RW et al. (2018). Br J Sports Med, 52(6):376-384.",
+    "Volek JS et al. (2015). J Strength Cond Res, 29(1):100-107.",
+    "Kerksick CM et al. (2017). J Int Soc Sports Nutr, 14:33.",
+    "American College of Sports Medicine (2022). Nutrition and Athletic Performance Position Stand."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+    "profile": "Behavioral & Psychological Aspects of Eating",
+    "scientific_profile": {
+        "emotional_eating": {
+            "definition": "Eating in response to emotions (stress, boredom, sadness, anxiety, happiness) rather than physical hunger.",
+            "causes": [
+                "Stress and elevated cortisol increasing cravings for calorie-dense foods",
+                "Reward pathways activated by comfort foods releasing dopamine",
+                "Learned associations between food and comfort/celebration"
+            ],
+            "types": [
+                "Stress Eating: turning to food during acute or chronic stress",
+                "Boredom Eating: eating when understimulated, not hungry",
+                "Mood-Repair Eating: eating to regulate sadness, loneliness, or anger"
+            ],
+            "strategies": [
+                "Practice mindfulness (pause, identify emotions before eating)",
+                "Use stress management techniques (exercise, breathing, journaling)",
+                "Find alternative coping strategies (walk, call a friend, drink tea)",
+                "Control food environment by limiting trigger foods"
+            ],
+            "evidence": [
+                "van Strien et al. (2013). Emotional eaters show greater susceptibility to weight gain. Appetite.",
+                "Kristeller & Wolever (2011). Mindfulness interventions reduce emotional eating. Appetite."
+            ]
+        },
+        "mindful_eating": {
+            "definition": "Eating with awareness of hunger/fullness cues, sensory experience, and emotional state.",
+            "causes_of_mindless_eating": [
+                "Eating while distracted (TV, phone)",
+                "Habitual 'finish your plate' mindset",
+                "Fast eating speed delaying satiety signals"
+            ],
+            "types": [
+                "Slow eating: putting fork down between bites, chewing thoroughly",
+                "Body check-ins: assessing if hunger is physical or emotional",
+                "Savoring food: focusing on flavor, texture, aroma"
+            ],
+            "strategies": [
+                "Eat without screens or distractions",
+                "Use hunger-fullness scales (1\u201310 before/during/after meals)",
+                "Create structured, calm eating environments"
+            ],
+            "evidence": [
+                "O\u2019Reilly et al. (2014). Mindful eating reduces binge and emotional eating. Obesity Reviews.",
+                "Robinson et al. (2014). Slower eating improves satiety and reduces calorie intake. Am J Clin Nutr."
+            ]
+        },
+        "restrictive_dieting": {
+            "definition": "Strong limitation of calories, food groups, or eating windows in an unsustainable way.",
+            "causes": [
+                "Desire for rapid weight loss",
+                "Social and media pressure for body image",
+                "Misinformation about foods (e.g., 'carbs are bad')"
+            ],
+            "types": [
+                "Rigid Restraint: strict 'good vs. bad' food rules",
+                "Flexible Restraint: allows occasional indulgence, focuses on balance"
+            ],
+            "consequences": [
+                "Increases food preoccupation and cravings",
+                "Leads to binge-restrict cycles",
+                "Potential nutrient deficiencies if prolonged"
+            ],
+            "strategies": [
+                "Shift from rigid to flexible restraint",
+                "Focus on moderation, not elimination",
+                "Apply the 80/20 rule (80% nutrient-dense foods, 20% enjoyable foods)",
+                "Adopt sustainable dietary patterns (e.g., Mediterranean)"
+            ],
+            "evidence": [
+                "Westenhoefer (1991). Rigid dieting linked with disordered eating. Int J Eat Disord.",
+                "Smith et al. (2018). Flexible dieting supports weight maintenance. Nutrients."
+            ]
+        }
+    }
+}

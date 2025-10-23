@@ -1,0 +1,118 @@
+{
+    "profile": "Nutrition to Overcome Training Fatigue & Pain",
+    "scientific_profile": {
+        "sources_of_fatigue_pain": {
+            "training_load": [
+                "Muscle glycogen depletion leading to reduced performance",
+                "Microtrauma and inflammation causing soreness (DOMS)",
+                "Electrolyte and fluid loss causing cramps and fatigue"
+            ],
+            "life_load": [
+                "Stress-induced cortisol elevation impairing recovery and sleep",
+                "Poor nutrition leading to inadequate energy and micronutrients",
+                "Sleep deprivation worsening fatigue and pain perception"
+            ],
+            "principle": "Nutrition must ensure energy availability, tissue repair, inflammation control, and nervous system recovery."
+        },
+        "macronutrient_strategy": {
+            "carbohydrates": {
+                "role": "Primary fuel source for performance and recovery. Prevents glycogen depletion.",
+                "daily_target": {
+                    "moderate_training": "4\u20136 g/kg/day",
+                    "heavy_training": "6\u201310 g/kg/day"
+                },
+                "post_workout": "1.0\u20131.2 g/kg within 1\u20132 hours for glycogen resynthesis"
+            },
+            "proteins": {
+                "role": "Repairs muscle damage, reduces soreness, supports immune function.",
+                "daily_target": "1.6\u20132.2 g/kg/day",
+                "timing": "20\u201340 g protein per meal every 3\u20134 hours",
+                "key_amino_acid": "Leucine (2\u20133 g per serving) for muscle protein synthesis"
+            },
+            "fats": {
+                "role": "Supports hormone production and inflammation control.",
+                "daily_target": "20\u201330% of daily calories",
+                "sources": [
+                    "Fatty fish",
+                    "Olive oil",
+                    "Nuts",
+                    "Seeds"
+                ]
+            }
+        },
+        "hydration_electrolytes": {
+            "baseline": "30\u201340 ml/kg bodyweight daily",
+            "during_exercise": "400\u2013800 ml/hour with electrolytes",
+            "key_electrolytes": [
+                "Sodium",
+                "Potassium",
+                "Magnesium"
+            ]
+        },
+        "anti_fatigue_anti_pain_nutrients": [
+            {
+                "nutrient": "Omega-3 (EPA/DHA)",
+                "benefit": "Reduces inflammation and DOMS",
+                "dose": "1\u20133 g/day"
+            },
+            {
+                "nutrient": "Creatine Monohydrate",
+                "benefit": "Supports recovery and reduces muscle damage",
+                "dose": "3\u20135 g/day"
+            },
+            {
+                "nutrient": "Tart Cherry / Berry Polyphenols",
+                "benefit": "Reduces soreness and oxidative stress",
+                "dose": "200\u2013500 mg extract or 200\u2013300 g fruit daily"
+            },
+            {
+                "nutrient": "Curcumin (with piperine)",
+                "benefit": "Anti-inflammatory, reduces pain",
+                "dose": "500\u20131000 mg/day"
+            },
+            {
+                "nutrient": "Caffeine",
+                "benefit": "Reduces perceived exertion and fatigue",
+                "dose": "3\u20136 mg/kg pre-training"
+            },
+            {
+                "nutrient": "Vitamin D",
+                "benefit": "Supports muscle recovery and hormone regulation",
+                "dose": "1000\u20132000 IU/day if deficient"
+            },
+            {
+                "nutrient": "Magnesium",
+                "benefit": "Supports muscle relaxation and nervous system recovery",
+                "dose": "300\u2013400 mg/day"
+            }
+        ],
+        "recovery_timing": {
+            "pre_workout": "Carbs + protein, low fat & fiber (e.g., oats + whey + banana)",
+            "during": "30\u201360 g carbs/hour + electrolytes if >90 min intense",
+            "post_workout": "Carbs 1\u20131.2 g/kg + protein 0.25\u20130.4 g/kg + fluids within 1\u20132h",
+            "before_bed": "Slow-digesting protein (casein, yogurt, soy) + magnesium-rich food"
+        },
+        "lifestyle_integration": {
+            "sleep": "7\u20139 hours per night, supported by balanced nutrition",
+            "stress_management": "Omega-3, magnesium, B-vitamins, adaptogens like ashwagandha",
+            "meal_quality": "Emphasize anti-inflammatory Mediterranean-style diet"
+        },
+        "practical_checklist": [
+            "Eat whole-food, nutrient-dense meals",
+            "Time carbs around training sessions",
+            "Target 20\u201340 g protein per meal (total 1.6\u20132.2 g/kg/day)",
+            "Hydrate adequately and replenish electrolytes",
+            "Include omega-3 rich foods or supplements",
+            "Use tart cherry or berry polyphenols for soreness",
+            "Supplement with creatine, vitamin D, magnesium if needed",
+            "Prioritize quality sleep and stress recovery"
+        ],
+        "scientific_references": [
+            "Burke LM et al. (2011). Carbohydrates for training and competition. J Sports Sci, 29(S1): S17\u2013S27.",
+            "Kerksick CM et al. (2017). ISSN position stand: nutrition and performance. J Int Soc Sports Nutr, 14:38.",
+            "Phillips SM & Van Loon LJ (2011). Dietary protein for athletes. Appl Physiol Nutr Metab, 36:647\u2013654.",
+            "Owens DJ et al. (2015). Omega-3 fatty acids and recovery. Eur J Appl Physiol, 115:1199\u20131208.",
+            "Bell PG et al. (2016). Tart cherry supplementation reduces soreness. Scand J Med Sci Sports, 26(4):462\u2013473."
+        ]
+    }
+}

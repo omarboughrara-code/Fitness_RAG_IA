@@ -1,0 +1,117 @@
+{
+    "dietStyle": {
+        "name": "Balanced Reverse → Surplus (Reverse Dieting Into Surplus)",
+        "scientificBasis": "Grounded in ACSM, ISSN, NSCA guidelines, metabolic adaptation literature, and peer-reviewed reviews. Direct experimental evidence is limited; guidelines are practical and empirical.",
+        "purposeOverview": {
+            "goal": "Safely transition from a prolonged calorie deficit into maintenance and then into a controlled surplus to promote lean muscle hypertrophy with minimal fat regain.",
+            "approach": "Gradual caloric increases (+50–150 kcal/week) until maintenance is reached, then a moderate surplus (+5–10%). Emphasis on whole foods, high protein, and structured monitoring.",
+            "bestFor": "Physique athletes post-contest, long-term dieters, and recreational lifters seeking controlled recovery and sustainable muscle growth.",
+            "whyItWorks": "Addresses adaptive thermogenesis, supports training recovery, and minimizes binge episodes or excessive fat regain."
+        },
+        "caloricStrategy": {
+            "startingPoint": "Use measured post-diet weight and recent intake to estimate current maintenance (empirical tracking preferred over equations).",
+            "reverseIncrements": "+50–150 kcal/week until weight/energy stabilize.",
+            "maintenanceCheck": "Hold intake steady for ~2 weeks once weight and energy stabilize.",
+            "transitionToSurplus": "+5–10% above maintenance (~100–300 kcal/day depending on size). Target weight gain: 0.25% body weight per week.",
+            "adjustments": "If weight gain >0.5% per week, reduce surplus. If no performance/energy improvements after 2–4 weeks, consider small additional increases."
+        },
+        "macronutrients": {
+            "protein": {
+                "range": "1.6–2.4 g/kg/day",
+                "rationale": "Supports MPS, lean mass recovery, and protection during energy transition."
+            },
+            "carbohydrates": {
+                "range": "3–6+ g/kg/day (adjust to training load)",
+                "rationale": "Restores glycogen, fuels training, regulates appetite."
+            },
+            "fats": {
+                "range": "20–30% of total calories",
+                "rationale": "Supports hormones and essential fatty acid intake."
+            },
+            "fiber": {
+                "range": "25–35 g/day",
+                "rationale": "Gut health and satiety."
+            },
+            "distribution": "20–40 g protein every 3–4 hrs for optimal MPS."
+        },
+        "mealTiming": {
+            "mealsPerDay": "3–6 balanced meals/snacks depending on preference.",
+            "preWorkout": {
+                "2to3hBefore": "Complex carbs + lean protein (e.g., oats + whey).",
+                "30to60minBefore": "Optional simple carbs if low energy."
+            },
+            "postWorkout": "20–40 g protein + 1–1.5 g/kg carbs within 2 hrs.",
+            "hydration": "35–45 ml/kg/day; electrolytes for heavy sweating.",
+            "notes": "Structured refeeds may help psychologically but differ from weekly reverse increments."
+        },
+        "foodExamples": {
+            "protein": [
+                "Chicken",
+                "Turkey",
+                "Lean beef",
+                "Fish",
+                "Eggs",
+                "Greek yogurt",
+                "Cottage cheese",
+                "Tofu",
+                "Tempeh",
+                "Whey/plant protein"
+            ],
+            "carbohydrates": [
+                "Rice",
+                "Oats",
+                "Potatoes",
+                "Sweet potatoes",
+                "Quinoa",
+                "Whole-grain pasta",
+                "Fruits",
+                "Vegetables",
+                "Legumes"
+            ],
+            "fats": [
+                "Olive oil",
+                "Avocado",
+                "Nuts",
+                "Seeds",
+                "Fatty fish"
+            ],
+            "snacks": [
+                "Smoothies with protein + fruit + oats",
+                "Rice cakes with nut butter",
+                "Greek yogurt with berries"
+            ]
+        },
+        "supplements": {
+            "creatine": "3–5 g/day (strong evidence for strength and lean mass).",
+            "proteinPowder": "Whey or plant-based for convenience.",
+            "vitaminD": "If low dietary intake or sun exposure.",
+            "omega3": "If fish intake is low.",
+            "caffeine": "Optional pre-workout performance aid."
+        },
+        "monitoring": {
+            "bodyWeight": "Weekly average; adjust calories if gain <0.25% or >0.5% body weight/week.",
+            "strengthPerformance": "Track weekly; if stagnant, reassess intake and training.",
+            "bodyComposition": "Every 4–8 weeks (skinfolds, BIA, photos).",
+            "psychologicalMarkers": "Track hunger, satiety, and binge risk weekly."
+        },
+        "advantages": [
+            "Minimizes fat regain after dieting.",
+            "Improves training energy gradually.",
+            "Supports sustainable, controlled lean mass growth.",
+            "Helps regulate appetite and psychological recovery."
+        ],
+        "limitations": [
+            "Evidence base is limited (few RCTs).",
+            "Requires consistent tracking and patience.",
+            "Individual variability in response.",
+            "Not a cure for metabolic damage."
+        ],
+        "references": [
+            "Metabolic adaptation to weight loss: implications for the athlete.",
+            "ISSN Position Stand: Protein and exercise (Morton et al., 2018).",
+            "ISSN Position Stand: Nutrient Timing (Kerksick et al., 2017).",
+            "ISSN Position Stand: Diets and Body Composition.",
+            "Reviews on diet breaks, refeeds, and reverse dieting outcomes."
+        ]
+    }
+}

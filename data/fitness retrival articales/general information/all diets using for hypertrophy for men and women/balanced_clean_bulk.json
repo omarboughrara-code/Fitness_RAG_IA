@@ -1,0 +1,120 @@
+{
+  "diet_style": "Balanced Clean Bulk",
+  "category": "Hypertrophy",
+  "purpose_overview": {
+    "goal": "Promote lean muscle hypertrophy with minimal fat gain",
+    "approach": "Moderate caloric surplus (10\u201320%) prioritizing whole, nutrient-dense foods",
+    "best_for": [
+      "Beginner lifters",
+      "Intermediate lifters",
+      "Recreational athletes"
+    ],
+    "scientific_basis": [
+      "Supports progressive overload training by supplying energy and macronutrients",
+      "Minimizes excess fat accumulation while promoting lean mass"
+    ]
+  },
+  "caloric_strategy": {
+    "maintenance_calculation": "Estimate TDEE using Mifflin-St Jeor or Cunningham equation",
+    "surplus": "Add 10\u201320% (~250\u2013500 kcal/day) and adjust weekly based on weight trends",
+    "target_weight_gain": "0.25\u20130.5% of body weight per week"
+  },
+  "macronutrient_breakdown": {
+    "protein": "1.6\u20132.2 g/kg body weight/day",
+    "carbohydrates": "4\u20136 g/kg/day",
+    "fats": "20\u201330% of total calories",
+    "fiber": "25\u201335 g/day",
+    "rationale": {
+      "protein": "Maximizes muscle protein synthesis (Morton et al., 2018)",
+      "carbohydrates": "Restores glycogen and fuels training (Kerksick et al., 2017)",
+      "fats": "Supports hormones and fat-soluble vitamin absorption"
+    }
+  },
+  "meal_timing_distribution": {
+    "meals_per_day": "3\u20136 balanced meals/snacks",
+    "protein_distribution": "20\u201340 g per meal spaced every 3\u20135 hr",
+    "pre_workout": {
+      "2_3_hours_before": "Complex carbs + lean protein (e.g., chicken, rice, vegetables)",
+      "30_60_min_before": "Optional simple carbs for energy boost"
+    },
+    "post_workout": "Within 2 hr: 20\u201340 g protein + 1\u20131.5 g/kg carbs",
+    "hydration": "35\u201345 ml water/kg/day; include electrolytes if sweating heavily"
+  },
+  "food_quality_examples": {
+    "protein_sources": [
+      "Chicken",
+      "Turkey",
+      "Lean beef",
+      "Fish",
+      "Eggs",
+      "Greek yogurt",
+      "Cottage cheese",
+      "Tofu",
+      "Tempeh"
+    ],
+    "carbohydrate_sources": [
+      "Rice",
+      "Oats",
+      "Quinoa",
+      "Potatoes",
+      "Whole-grain pasta",
+      "Whole-grain bread",
+      "Fruits",
+      "Vegetables",
+      "Legumes"
+    ],
+    "fat_sources": [
+      "Avocado",
+      "Nuts",
+      "Seeds",
+      "Olive oil",
+      "Fatty fish"
+    ],
+    "snacks_extras": [
+      "Protein smoothies with fruit",
+      "Rice cakes with peanut butter",
+      "Greek yogurt parfait"
+    ]
+  },
+  "supplements_optional": [
+    {
+      "name": "Creatine Monohydrate",
+      "dose": "3\u20135 g/day",
+      "evidence": "Strong evidence for increased strength and lean mass"
+    },
+    {
+      "name": "Whey or Plant Protein",
+      "dose": "As needed",
+      "evidence": "Convenient to meet protein targets"
+    },
+    {
+      "name": "Vitamin D",
+      "note": "Use if intake or sun exposure is low"
+    },
+    {
+      "name": "Omega-3",
+      "note": "Support overall health if dietary intake is insufficient"
+    }
+  ],
+  "monitoring_adjustments": {
+    "body_weight": "Track weekly averages and adjust calories based on trends",
+    "strength_progress": "Reassess calories/training load if strength stagnates",
+    "body_composition": "Check every 4\u20136 weeks using skinfolds, bioimpedance, or photos"
+  },
+  "advantages": [
+    "Minimizes fat gain compared to aggressive bulks",
+    "Emphasizes micronutrient-rich whole foods",
+    "Sustainable and flexible for long-term adherence"
+  ],
+  "limitations": [
+    "Slower visible muscle gain compared to dirty bulks",
+    "Requires tracking calories and macros initially",
+    "Demands patience and consistent training stimulus"
+  ],
+  "references": [
+    "Morton RW et al. (2018). Br J Sports Med, 52(6):376-384.",
+    "Kerksick CM et al. (2017). J Int Soc Sports Nutr, 14:33.",
+    "Slater GJ & Phillips SM (2011). J Sports Sci, 29 Suppl 1:S67\u201377.",
+    "American College of Sports Medicine (2022). Nutrition and Athletic Performance Position Stand."
+  ]
+}

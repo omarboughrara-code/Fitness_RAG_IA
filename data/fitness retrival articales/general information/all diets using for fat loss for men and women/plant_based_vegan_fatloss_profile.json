@@ -1,0 +1,105 @@
+{
+    "diet_style": "Plant-Based / Vegan (Fat Loss)",
+    "scientific_profile": {
+        "purpose_overview": {
+            "goal": "Achieve sustainable fat loss while maintaining muscle mass and supporting overall health through a 100% plant-based dietary approach.",
+            "approach": "Focus on whole, minimally processed plant foods \u2014 legumes, grains, vegetables, fruits, nuts, and seeds \u2014 combined with caloric restriction (\u224815\u201325% below TDEE). Prioritize high protein, fiber-rich foods to optimize satiety and muscle preservation.",
+            "best_for": [
+                "Individuals seeking fat loss with ethical, environmental, or health motivations",
+                "People with lactose intolerance or dairy avoidance",
+                "Those aiming for nutrient-dense, high-fiber diets"
+            ],
+            "why_it_works": "Vegan diets are naturally lower in calorie density and higher in fiber, improving satiety and reducing overeating. Controlled trials show plant-based diets can support fat loss, cardiometabolic improvements, and long-term adherence when properly balanced."
+        },
+        "caloric_strategy": {
+            "maintenance": "Estimate TDEE using Mifflin-St Jeor or activity multipliers.",
+            "fat_loss": "15\u201325% below TDEE for ~0.5\u20131% body weight loss per week.",
+            "muscle_gain": "Possible but requires calorie surplus and careful protein planning.",
+            "body_recomposition": "At maintenance calories, combining resistance training + high protein supports lean mass retention."
+        },
+        "macronutrient_breakdown": {
+            "protein": "1.8\u20132.4 g/kg/day; emphasize legumes, soy, seitan, quinoa, soy/pea/rice protein powders.",
+            "carbohydrates": "45\u201355% of kcal from whole grains, legumes, fruits, vegetables.",
+            "fats": "20\u201330% of kcal from nuts, seeds, avocados, plant oils; ensure omega-3 ALA sources.",
+            "fiber": "35\u201355 g/day, naturally high in plant-based diets."
+        },
+        "meal_timing_distribution": {
+            "meals": "3 main meals + 1\u20132 snacks daily.",
+            "protein_distribution": "0.4\u20130.5 g/kg per meal; combine complementary proteins (e.g., rice + beans).",
+            "pre_workout": "Carbohydrate-rich snack (banana, oats, dates, lentils).",
+            "post_workout": "Soy or pea/rice protein shake + carbs (fruit, grains).",
+            "evening_meal": "Moderate protein + fibrous vegetables to support satiety.",
+            "hydration": "Prioritize water, tea, or coffee (unsweetened)."
+        },
+        "food_quality_examples": {
+            "protein": [
+                "Lentils",
+                "Beans",
+                "Chickpeas",
+                "Soy (tofu, tempeh, edamame)",
+                "Seitan",
+                "Quinoa",
+                "Soy/pea/rice protein powders"
+            ],
+            "carbohydrates": [
+                "Oats",
+                "Quinoa",
+                "Brown rice",
+                "Potatoes",
+                "Beans",
+                "Fruits",
+                "Vegetables",
+                "Whole wheat bread/pasta"
+            ],
+            "fats": [
+                "Avocado",
+                "Nuts (almonds, walnuts)",
+                "Seeds (chia, flax, hemp, pumpkin)",
+                "Olive oil"
+            ],
+            "key_nutrients_to_prioritize": [
+                "Vitamin B12",
+                "Vitamin D",
+                "Calcium-fortified foods",
+                "Iron",
+                "Zinc",
+                "Iodine",
+                "Omega-3 (ALA, algae oil)"
+            ]
+        },
+        "supplements_recommended": [
+            "Vitamin B12 \u2013 Essential, supplement required.",
+            "Vitamin D3 (Vegan source) \u2013 For bone and immune health.",
+            "Omega-3 (Algae Oil) \u2013 EPA/DHA support since ALA conversion is limited.",
+            "Protein Powder (Soy, Pea/Rice blend) \u2013 Helps reach protein targets.",
+            "Creatine Monohydrate \u2013 Supports strength and lean mass.",
+            "Iron/Zinc \u2013 If deficient, with medical guidance."
+        ],
+        "monitoring_adjustments": {
+            "body_weight": "Weekly average \u2013 Adjust calories if progress stalls for >2 weeks.",
+            "strength_performance": "Weekly \u2013 Ensure adequate protein and energy for recovery.",
+            "nutrient_status": "Every 6\u201312 months \u2013 Monitor B12, Vitamin D, iron, zinc.",
+            "satiety_energy": "Daily \u2013 Adjust protein/fiber/carbohydrate balance to sustain energy."
+        },
+        "advantages": [
+            "Naturally high in fiber \u2192 strong satiety and appetite control.",
+            "Lower calorie density aids fat loss without excessive restriction.",
+            "Cardiovascular and metabolic health benefits.",
+            "Ethical and environmental benefits may improve adherence.",
+            "Supports athletic performance with proper planning."
+        ],
+        "limitations": [
+            "Risk of nutrient deficiencies (B12, D, iron, zinc, calcium, iodine, omega-3).",
+            "Requires careful protein planning and supplementation.",
+            "Higher food volume may cause GI discomfort for some.",
+            "Processed vegan foods (mock meats, snacks) may hinder fat loss."
+        ],
+        "scientific_references": [
+            "Barnard ND et al. (2015). Effectiveness of a low-fat vegan diet in improving body weight and glycemic control. Am J Clin Nutr, 100(2):469\u2013477.",
+            "Kahleova H et al. (2020). Plant-based diets for healthy weight management. Nat Rev Endocrinol, 16:487\u2013498.",
+            "Craddock JC et al. (2016). Vegetarian and vegan diets and body composition: a systematic review. Crit Rev Food Sci Nutr, 56(14):2412\u20132421.",
+            "Satija A & Hu FB (2018). Plant-based diets and cardiovascular health. Trends Cardiovasc Med, 28(7):437\u2013441.",
+            "Melina V et al. (2016). Position of the Academy of Nutrition and Dietetics: Vegetarian diets. J Acad Nutr Diet, 116(12):1970\u20131980."
+        ]
+    }
+}

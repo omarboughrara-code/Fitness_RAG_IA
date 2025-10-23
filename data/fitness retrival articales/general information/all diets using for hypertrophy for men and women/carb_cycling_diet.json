@@ -1,0 +1,109 @@
+{
+    "name": "Carb Cycling Diet",
+    "goal": "Optimize body composition by alternating carbohydrate intake to match training demands, supporting muscle growth while minimizing fat gain.",
+    "best_for": [
+        "Intermediate\u2013advanced athletes",
+        "Bodybuilders",
+        "Individuals seeking muscle gain with controlled fat accumulation or cutting phases"
+    ],
+    "caloric_strategy": {
+        "maintenance": "Estimate TDEE using Mifflin-St Jeor or Cunningham equation. Adjust weekly.",
+        "surplus": "Moderate surplus (\u2248 5\u201315% above TDEE). Carb levels dictate daily calorie variations.",
+        "target_gain": "0.25\u20130.5% body weight per week"
+    },
+    "macronutrients": {
+        "protein": {
+            "intake": "1.6\u20132.2 g/kg/day (stable)",
+            "rationale": "Supports muscle protein synthesis regardless of carb cycle."
+        },
+        "carbohydrates": {
+            "high_carb_days": "5\u20137 g/kg/day (training/leg/push-pull days)",
+            "moderate_carb_days": "3\u20135 g/kg/day",
+            "low_carb_days": "1\u20132 g/kg/day (rest/active recovery)"
+        },
+        "fats": {
+            "high_carb_days": "15\u201320% of calories",
+            "moderate_carb_days": "25\u201330% of calories",
+            "low_carb_days": "35\u201345% of calories"
+        },
+        "fiber": "25\u201335 g/day"
+    },
+    "meal_timing": {
+        "meals_per_day": "3\u20136 structured meals",
+        "protein_distribution": "20\u201340 g protein per meal, every 3\u20135 hr",
+        "high_carb_training_days": {
+            "pre_workout": "Carbs + protein (e.g., oats + soy milk + protein powder)",
+            "post_workout": "1\u20131.5 g/kg carbs + 20\u201340 g protein within 2 hr"
+        },
+        "low_carb_days": "Focus on protein, fibrous veggies, and healthy fats",
+        "hydration": "35\u201345 ml/kg/day + electrolytes during high-intensity training"
+    },
+    "food_sources": {
+        "protein": [
+            "Chicken",
+            "Turkey",
+            "Lean beef",
+            "Fish",
+            "Eggs",
+            "Whey",
+            "Soy",
+            "Legumes",
+            "Seitan"
+        ],
+        "carbohydrates": [
+            "Rice",
+            "Oats",
+            "Quinoa",
+            "Potatoes",
+            "Fruits",
+            "Whole-grain pasta/bread"
+        ],
+        "fats": [
+            "Avocado",
+            "Nuts",
+            "Seeds",
+            "Olive oil",
+            "Fatty fish",
+            "Nut butters"
+        ],
+        "low_carb_veggies": [
+            "Leafy greens",
+            "Broccoli",
+            "Zucchini",
+            "Mushrooms",
+            "Peppers"
+        ]
+    },
+    "supplements": [
+        "Creatine monohydrate 3\u20135 g/day",
+        "Whey or plant protein powder",
+        "Omega-3 (fish oil or algae oil)",
+        "Vitamin D",
+        "Electrolytes (Na, K, Mg) for high-sweat training days"
+    ],
+    "monitoring": {
+        "body_weight": "Weekly average; adjust calories if outside 0.25\u20130.5% BW gain/week",
+        "strength": "Track weekly progression",
+        "body_composition": "Every 4\u20136 weeks",
+        "performance_markers": "Assess energy differences across carb days"
+    },
+    "advantages": [
+        "Matches carb intake to energy demands",
+        "May improve insulin sensitivity and nutrient partitioning",
+        "Helps balance muscle growth with fat control",
+        "Provides psychological variety compared to static diets"
+    ],
+    "limitations": [
+        "Requires meal prep and detailed tracking",
+        "Can be confusing for beginners",
+        "Large fluctuations in intake may affect mood/energy for some individuals",
+        "Evidence mostly indirect, not from long-term RCTs"
+    ],
+    "references": [
+        "Kerksick CM et al. (2017). ISSN Position Stand: Nutrient Timing. JISSN, 14:33.",
+        "Morton RW et al. (2018). Protein supplementation meta-analysis. Br J Sports Med, 52(6):376\u2013384.",
+        "Slater GJ & Phillips SM (2011). Nutrition guidelines for strength sports. J Sports Sci, 29 Suppl 1:S67\u201377.",
+        "Helms ER, Aragon AA, Fitschen PJ (2014). Evidence-based recommendations for natural bodybuilding contest prep. JISSN, 11:20.",
+        "ACSM (2022). Nutrition and Athletic Performance Position Stand."
+    ]
+}

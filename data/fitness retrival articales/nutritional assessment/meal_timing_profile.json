@@ -1,0 +1,57 @@
+{
+    "profile": "Meal Frequency & Timing per Goal",
+    "scientific_profile": {
+        "hypertrophy": {
+            "meals_per_day": "4\u20136 meals/snacks daily",
+            "rationale": [
+                "Muscle protein synthesis maximized when protein is spread across meals every 3\u20134 hours",
+                "Each meal should deliver ~0.4 g/kg protein"
+            ],
+            "timing": {
+                "breakfast": "High-protein + carbs to start MPS early",
+                "pre_workout": "Moderate protein + low-GI carbs (1\u20133 hrs before training)",
+                "post_workout": "Fast-digesting protein + carbs within ~2 hrs",
+                "evening_meal": "Slow-digesting protein (casein) before bed to support overnight recovery"
+            },
+            "evidence": [
+                "Areta et al. (2013). Four protein feedings/day > 2 feedings for lean mass gains. J Physiol.",
+                "Mamerow et al. (2014). Even distribution of protein improves muscle growth vs. skewed intake. J Nutr.",
+                "Schoenfeld & Aragon (2018). Optimal protein distribution for MPS. J Int Soc Sports Nutr."
+            ]
+        },
+        "fat_loss": {
+            "meals_per_day": "3 main meals + 1\u20132 optional snacks",
+            "rationale": [
+                "Moderate frequency helps control hunger and adherence",
+                "High-protein, lower-energy-density meals promote satiety"
+            ],
+            "timing": {
+                "breakfast": "Protein + fiber to prevent mid-morning hunger",
+                "lunch_dinner": "Protein + high-volume vegetables",
+                "snacks": "Protein-rich (Greek yogurt, nuts, boiled eggs)",
+                "peri_workout": "Protein around training; carbs optional depending on deficit size"
+            },
+            "evidence": [
+                "Schoenfeld et al. (2015). Meal frequency (2\u20136/day) has little impact on fat loss if calories are matched. Nutrients.",
+                "Paddon-Jones & Leidy (2014). Higher protein at meals preserves lean mass during caloric deficit. Am J Clin Nutr."
+            ]
+        },
+        "overall_fitness": {
+            "meals_per_day": "3 meals + 1\u20132 snacks (flexible)",
+            "rationale": [
+                "Supports energy balance, metabolic health, and micronutrient sufficiency",
+                "Moderate spacing maintains blood glucose stability"
+            ],
+            "timing": {
+                "breakfast": "Protein + whole grains + fruit to stabilize glucose",
+                "lunch": "Balanced macros for steady energy",
+                "dinner": "Protein + vegetables + healthy fats for recovery and satiety",
+                "snacks": "Optional; fruits, nuts, dairy, protein sources"
+            },
+            "evidence": [
+                "Farshchi et al. (2004). Consistent meal timing linked to better metabolic health. Am J Clin Nutr.",
+                "Jakubowicz et al. (2013). Balanced energy distribution improves glycemic control. Obesity."
+            ]
+        }
+    }
+}

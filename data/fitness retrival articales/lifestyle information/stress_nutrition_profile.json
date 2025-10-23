@@ -1,0 +1,127 @@
+{
+    "profile": "Nutrition to Overcome Stress from Training Load & Life Load",
+    "scientific_profile": {
+        "impact_of_stress": {
+            "biological_effects": [
+                "Increased cortisol leading to muscle breakdown, fat storage, and sleep disruption",
+                "Depletion of key nutrients (magnesium, vitamin C, B-vitamins, omega-3)",
+                "Oxidative stress and inflammation causing fatigue and impaired recovery",
+                "Suppressed immune function raising illness risk"
+            ],
+            "principle": "Nutrition should lower stress hormones, reduce oxidative damage, stabilize energy, and support brain chemistry."
+        },
+        "macronutrient_strategy": {
+            "carbohydrates": {
+                "role": "Blunts cortisol, restores glycogen, stabilizes mood and energy",
+                "daily_target": "3\u20136 g/kg/day (higher with heavier training)",
+                "post_workout": "1 g/kg with protein to suppress cortisol and enhance recovery",
+                "sources": [
+                    "Oats",
+                    "Quinoa",
+                    "Sweet potato",
+                    "Rice",
+                    "Fruits"
+                ]
+            },
+            "proteins": {
+                "role": "Provides amino acids for recovery and neurotransmitter support (serotonin, dopamine)",
+                "daily_target": "1.6\u20132.0 g/kg/day",
+                "timing": "20\u201340 g evenly spaced every 3\u20134 hours",
+                "sources": [
+                    "Lean meats",
+                    "Fish",
+                    "Eggs",
+                    "Dairy",
+                    "Legumes"
+                ]
+            },
+            "fats": {
+                "role": "Supports hormone balance and stress resilience",
+                "daily_target": "20\u201330% of calories with emphasis on omega-3",
+                "sources": [
+                    "Fatty fish",
+                    "Olive oil",
+                    "Walnuts",
+                    "Flax",
+                    "Chia"
+                ]
+            }
+        },
+        "micronutrients_adaptogens": [
+            {
+                "nutrient": "Magnesium",
+                "benefit": "Nervous system relaxation, better sleep, reduced cortisol",
+                "dose": "300\u2013400 mg/day"
+            },
+            {
+                "nutrient": "Vitamin C",
+                "benefit": "Antioxidant, reduces cortisol response",
+                "dose": "200\u2013500 mg/day"
+            },
+            {
+                "nutrient": "B-Vitamins",
+                "benefit": "Support neurotransmitters and energy metabolism",
+                "dose": "RDA-level through whole foods"
+            },
+            {
+                "nutrient": "Vitamin D",
+                "benefit": "Regulates mood and stress resilience",
+                "dose": "1000\u20132000 IU/day if deficient"
+            },
+            {
+                "nutrient": "Zinc",
+                "benefit": "Supports immunity and recovery under stress",
+                "dose": "10\u201325 mg/day"
+            },
+            {
+                "nutrient": "Omega-3 (EPA/DHA)",
+                "benefit": "Reduces cortisol and inflammation",
+                "dose": "1\u20133 g/day"
+            },
+            {
+                "nutrient": "Ashwagandha",
+                "benefit": "Clinically reduces cortisol and anxiety",
+                "dose": "300\u2013600 mg/day extract"
+            },
+            {
+                "nutrient": "Rhodiola",
+                "benefit": "Improves stress tolerance and reduces fatigue",
+                "dose": "200\u2013400 mg/day extract"
+            }
+        ],
+        "hydration": {
+            "baseline": "30\u201340 ml/kg body weight daily",
+            "training": "Add electrolytes for prolonged sweating or heat exposure",
+            "importance": "Dehydration raises cortisol and impairs mood"
+        },
+        "recovery_timing": {
+            "pre_workout": "Carbs + protein (e.g., Greek yogurt + oats + berries)",
+            "during_workout": "30\u201360 g carbs/hour + electrolytes if >90 min intense",
+            "post_workout": "Carbs 1 g/kg + protein 0.3 g/kg within 1\u20132 hours",
+            "evening": "Slow-digesting protein (casein/soy/yogurt) + magnesium-rich food + herbal tea (chamomile, lemon balm)"
+        },
+        "lifestyle_integration": {
+            "sleep": "7\u20139 hours supported by tryptophan-rich foods (turkey, oats, dairy)",
+            "caffeine": "3\u20136 mg/kg can enhance training, but avoid 6\u20138 h before bed",
+            "alcohol": "Minimize as it worsens stress load and recovery",
+            "diet_pattern": "Mediterranean-style anti-inflammatory diet supports resilience"
+        },
+        "daily_checklist": [
+            "Meet carb needs (3\u20136 g/kg/day) to regulate cortisol",
+            "Hit protein target (1.6\u20132.0 g/kg/day) evenly across meals",
+            "Prioritize omega-3 rich foods or supplements",
+            "Include fruits/vegetables for antioxidants and micronutrients",
+            "Hydrate: 30\u201340 ml/kg/day + electrolytes as needed",
+            "Maintain vitamin D and magnesium levels",
+            "Consider adaptogens if stress is chronically high",
+            "Prioritize sleep and recovery practices"
+        ],
+        "scientific_references": [
+            "Burke LM et al. (2011). Carbohydrates for training and competition. J Sports Sci.",
+            "Phillips SM & Van Loon LJ (2011). Dietary protein for athletes. Appl Physiol Nutr Metab.",
+            "Owens DJ et al. (2015). Omega-3 fatty acids and recovery. Eur J Appl Physiol.",
+            "Grosso G et al. (2014). Mediterranean diet and depression risk. Nutrients.",
+            "Chandrasekhar K et al. (2012). Ashwagandha root extract reduces stress and anxiety. Indian J Psychol Med."
+        ]
+    }
+}

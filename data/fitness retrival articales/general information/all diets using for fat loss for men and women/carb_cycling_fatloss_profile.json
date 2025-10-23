@@ -1,0 +1,120 @@
+{
+    "diet_style": "Carb Cycling (Fat Loss)",
+    "scientific_profile": {
+        "purpose_overview": {
+            "goal": "Promote fat loss while preserving muscle mass and training performance through strategic carbohydrate manipulation.",
+            "approach": "Alternate high-, moderate-, and low-carbohydrate days based on training intensity. Maintain a weekly calorie deficit (~15\u201325% below TDEE).",
+            "best_for": [
+                "Resistance trainers and athletes seeking fat loss without sacrificing performance",
+                "Individuals struggling with strict continuous low-carb diets",
+                "Those who prefer a structured, performance-based eating plan"
+            ],
+            "why_it_works": "By syncing carbohydrate intake with activity demands, the body uses carbs efficiently during training while promoting fat oxidation and calorie control during rest. Supports metabolic flexibility and muscle preservation."
+        },
+        "caloric_strategy": {
+            "maintenance": "Estimate TDEE using Mifflin-St Jeor, Cunningham, or wearable trackers.",
+            "fat_loss": "Weekly average calories 15\u201325% below TDEE. Deficit primarily occurs on low-carb days.",
+            "muscle_gain": "Not the main goal but possible with high-carb refeeds and structured training.",
+            "body_recomposition": "Effective with progressive resistance training and high protein intake."
+        },
+        "macronutrient_breakdown": {
+            "high_carb_day": {
+                "protein": "1.8\u20132.2 g/kg",
+                "carbohydrates": "4\u20136 g/kg",
+                "fat": "15\u201320% of kcal",
+                "notes": "For heavy training days, fuels performance and recovery."
+            },
+            "moderate_carb_day": {
+                "protein": "1.8\u20132.2 g/kg",
+                "carbohydrates": "2\u20133 g/kg",
+                "fat": "25\u201330% of kcal",
+                "notes": "For lighter training days, balances intake."
+            },
+            "low_carb_day": {
+                "protein": "2.0\u20132.4 g/kg",
+                "carbohydrates": "0.5\u20131.5 g/kg",
+                "fat": "40\u201350% of kcal",
+                "notes": "For rest days, enhances fat oxidation and creates deficit."
+            },
+            "fiber": "25\u201340 g/day from vegetables, fruits, and high-fiber carbs on moderate/high days."
+        },
+        "meal_timing_distribution": {
+            "protein_distribution": "0.4\u20130.5 g/kg per meal, evenly spaced.",
+            "high_carb_days": {
+                "pre_workout": "Carbs + protein (oats with whey, banana).",
+                "post_workout": "Fast-digesting carbs + lean protein (rice + chicken, potato + fish)."
+            },
+            "low_carb_days": "Higher fats + lean protein with fibrous vegetables (e.g., salmon + avocado + spinach).",
+            "hydration": "Water, tea, coffee (unsweetened). Electrolytes if training volume is high."
+        },
+        "food_quality_examples": {
+            "protein": [
+                "Chicken",
+                "Turkey",
+                "Lean beef",
+                "Fish",
+                "Eggs",
+                "Egg whites",
+                "Protein powder"
+            ],
+            "carbohydrates": [
+                "Rice",
+                "Oats",
+                "Quinoa",
+                "Potatoes",
+                "Sweet potatoes",
+                "Fruit",
+                "Vegetables"
+            ],
+            "fats": [
+                "Olive oil",
+                "Avocado",
+                "Nuts",
+                "Nut butters",
+                "Seeds",
+                "Fatty fish",
+                "Coconut oil"
+            ],
+            "vegetables": [
+                "Leafy greens",
+                "Cruciferous vegetables",
+                "Peppers",
+                "Mushrooms",
+                "Zucchini"
+            ]
+        },
+        "supplements_recommended": [
+            "Whey or plant protein powder \u2013 Convenient protein source.",
+            "Creatine Monohydrate \u2013 Supports strength, power, and muscle preservation.",
+            "Caffeine \u2013 Enhances energy and fat loss.",
+            "Electrolytes (sodium, potassium, magnesium) \u2013 Especially on low-carb days.",
+            "Omega-3 fatty acids \u2013 For cardiovascular and anti-inflammatory benefits.",
+            "Vitamin D3 & Multivitamin \u2013 General health support."
+        ],
+        "monitoring_adjustments": {
+            "body_weight": "Track weekly averages. Adjust calories or carb distribution if no progress >2 weeks.",
+            "training_performance": "Weekly review. Ensure adequate carbs on high days.",
+            "energy_levels": "Monitor daily. If fatigue is high, add a moderate-carb day or tweak macros.",
+            "body_composition": "Reassess every 4\u20136 weeks with photos or body measurements."
+        },
+        "advantages": [
+            "Aligns carb intake with energy demands to preserve performance.",
+            "Easier adherence compared to continuous low-carb diets.",
+            "Helps preserve lean muscle mass during fat loss.",
+            "May improve metabolic flexibility.",
+            "Psychological benefit from planned high-carb days."
+        ],
+        "limitations": [
+            "Requires detailed planning and tracking.",
+            "Risk of overeating on high-carb days if not controlled.",
+            "Less flexible socially due to variable macros across days.",
+            "Limited long-term clinical research versus standard caloric deficits."
+        ],
+        "scientific_references": [
+            "Kerksick CM et al. (2017). ISSN exercise & sports nutrition review update. J Int Soc Sports Nutr, 14:38.",
+            "Lenzy A et al. (2019). Carbohydrate manipulation and metabolic outcomes in athletes. Nutrients, 11(10):2369.",
+            "Tinsley GM & La Bounty PM (2015). Effects of intermittent fasting and intermittent energy restriction. Nutr Rev, 73(10):661\u2013674.",
+            "Jeukendrup AE (2017). Periodized nutrition for athletes. Sports Med, 47(S1):51\u201363."
+        ]
+    }
+}

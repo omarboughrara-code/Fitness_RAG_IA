@@ -1,0 +1,102 @@
+{
+    "diet_style": "Balanced Caloric Deficit (Clean Cutting)",
+    "scientific_profile": {
+        "purpose_overview": {
+            "goal": "Achieve fat loss while preserving lean muscle mass and maintaining training performance.",
+            "approach": "Create a moderate caloric deficit (15\u201325% below maintenance) with nutrient-dense whole foods.",
+            "best_for": "Beginner to advanced lifters, recreational athletes, general population looking for sustainable fat loss.",
+            "why_it_works": "By combining a moderate deficit with sufficient protein and resistance training, fat loss is maximized while minimizing muscle loss (Hall & Guo, Gastroenterology, 2017)."
+        },
+        "caloric_strategy": {
+            "maintenance_calculation": "Estimate TDEE with Mifflin-St Jeor or Cunningham equation.",
+            "deficit": "Reduce 15\u201325% (\u2248 500\u2013750 kcal/day for most).",
+            "target_weight_loss": "0.5\u20131.0% body weight per week (e.g., 0.4\u20130.8 kg for an 80 kg person).",
+            "adjustment_tip": "If fat loss stalls >2 weeks, reduce intake by additional 150\u2013250 kcal/day or increase activity."
+        },
+        "macronutrient_breakdown": {
+            "protein": "1.8\u20132.4 g/kg/day",
+            "carbohydrates": "3\u20135 g/kg/day",
+            "fats": "20\u201330% of total kcal",
+            "fiber": "25\u201335 g/day",
+            "rationale": {
+                "protein": "Preserves lean mass during caloric deficit (Morton et al., 2018).",
+                "carbohydrates": "Fuels resistance and endurance training, preserves performance.",
+                "fats": "Supports hormones, recovery, fat-soluble vitamins.",
+                "fiber": "Enhances satiety, digestion, and gut health."
+            }
+        },
+        "meal_timing_distribution": {
+            "meals_per_day": "3\u20135 balanced meals/snacks.",
+            "protein_distribution": "20\u201340 g per meal, spaced every ~3\u20134 hr for consistent muscle protein synthesis.",
+            "pre_workout": "2\u20133 hr before: Complex carbs + lean protein (e.g., chicken + rice + vegetables).",
+            "post_workout": "Within 2 hr: 20\u201340 g protein + 0.8\u20131.2 g/kg carbs.",
+            "hydration": "35\u201345 ml/kg/day water; add electrolytes if sweating heavily."
+        },
+        "food_quality_examples": {
+            "protein": [
+                "Chicken",
+                "Turkey",
+                "Lean beef",
+                "Fish",
+                "Eggs",
+                "Greek yogurt",
+                "Cottage cheese",
+                "Tofu",
+                "Tempeh",
+                "Protein powders"
+            ],
+            "carbohydrates": [
+                "Rice",
+                "Oats",
+                "Quinoa",
+                "Potatoes",
+                "Whole-grain bread/pasta",
+                "Fruits",
+                "Vegetables",
+                "Legumes"
+            ],
+            "fats": [
+                "Avocado",
+                "Nuts",
+                "Seeds",
+                "Olive oil",
+                "Fatty fish"
+            ],
+            "snacks_extras": [
+                "Protein shakes",
+                "Fruit with nut butter",
+                "Rice cakes with cottage cheese",
+                "Hummus + veggies"
+            ]
+        },
+        "supplements_optional": [
+            "Creatine Monohydrate (3\u20135 g/day) \u2013 Supports strength and preserves lean mass in a deficit.",
+            "Whey/Plant Protein \u2013 Convenient to hit protein targets.",
+            "Caffeine (3\u20136 mg/kg pre-workout) \u2013 Boosts training intensity and fat oxidation.",
+            "Vitamin D & Omega-3 \u2013 Beneficial for health, mood, and recovery.",
+            "Multivitamin (basic) \u2013 Helps cover potential micronutrient gaps."
+        ],
+        "monitoring_adjustments": {
+            "body_weight": "Weekly average \u2013 If weight loss <0.5%/week for 2+ weeks, reduce calories by 150\u2013250/day.",
+            "strength_progress": "Weekly \u2013 If strength drops significantly, increase carbs slightly or adjust deficit.",
+            "body_composition": "Every 4\u20136 weeks \u2013 Photos, BIA, or skinfolds for fat/muscle tracking."
+        },
+        "advantages": [
+            "Balanced, flexible, and evidence-based.",
+            "Preserves lean muscle while cutting fat.",
+            "Sustainable long-term without extreme restriction.",
+            "Fits well with resistance and endurance training."
+        ],
+        "limitations": [
+            "Slower results compared to aggressive crash diets.",
+            "Requires consistency and some tracking at least initially.",
+            "Some individuals may prefer stricter structures (keto, IF, etc.) for adherence."
+        ],
+        "scientific_references": [
+            "Morton RW et al. (2018). Protein supplementation on resistance training-induced gains in muscle mass and strength. Br J Sports Med, 52(6):376\u2013384.",
+            "Hall KD & Guo J (2017). Obesity energetics: body weight regulation and the effects of diet composition. Gastroenterology, 152(7):1718\u20131727.",
+            "Kerksick CM et al. (2017). ISSN position stand: nutrient timing. J Int Soc Sports Nutr, 14:33.",
+            "American College of Sports Medicine (2022). Nutrition and Athletic Performance Position Stand."
+        ]
+    }
+}

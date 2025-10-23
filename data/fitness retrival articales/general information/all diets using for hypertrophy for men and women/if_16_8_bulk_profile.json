@@ -1,0 +1,109 @@
+{
+    "diet_style": "Intermittent Fasting (16/8) Bulk",
+    "scientific_profile": {
+        "purpose_overview": {
+            "goal": "Build lean muscle mass while controlling fat gain, using a structured eating window.",
+            "approach": "Consume a caloric surplus during an 8-hour feeding window, aligned with training sessions for optimal performance and recovery.",
+            "best_for": "Intermediate\u2013advanced lifters, athletes who prefer time-restricted eating, and those who struggle with appetite control or want simplicity.",
+            "why_it_works": "Supports muscle growth via adequate calorie/protein intake, while fasting may improve insulin sensitivity and appetite regulation (Tinsley & La Bounty, JISSN, 2015)."
+        },
+        "caloric_strategy": {
+            "maintenance_calculation": "Estimate TDEE with Mifflin-St Jeor or Cunningham equation.",
+            "surplus": "Add 10\u201315% (\u2248 200\u2013400 kcal/day for most) due to reduced feeding window efficiency.",
+            "target_weight_gain": "0.25\u20130.5% body weight per week (e.g., 0.2\u20130.5 kg for 80 kg person).",
+            "adjustment_tip": "Since fasting limits eating time, calorie-dense whole foods may be necessary (e.g., nuts, olive oil, rice, dried fruit)."
+        },
+        "macronutrient_breakdown": {
+            "protein": "1.6\u20132.2 g/kg/day",
+            "carbohydrates": "4\u20136 g/kg/day",
+            "fats": "20\u201330% of total kcal",
+            "fiber": "25\u201335 g/day",
+            "rationale": {
+                "protein": "Maximizes muscle protein synthesis (Morton et al., 2018). Essential in fewer meals due to IF.",
+                "carbohydrates": "Fuels resistance training and glycogen replenishment.",
+                "fats": "Supports hormones & absorption of fat-soluble vitamins.",
+                "fiber": "Aids satiety, digestion, and gut health."
+            }
+        },
+        "meal_timing_distribution": {
+            "feeding_window_example": "12:00\u201320:00 (customizable around training).",
+            "meal_frequency": "2\u20134 meals/snacks within 8 hours.",
+            "protein_distribution": "0.4\u20130.55 g/kg per meal \u00d7 3\u20134 meals (Schoenfeld & Aragon, JISSN, 2018).",
+            "training_integration": {
+                "pre_workout": "Balanced meal 1\u20133 hr before (protein + complex carbs + vegetables).",
+                "fasted_training": "Take EAAs/BCAAs (~10 g) or whey hydrolysate pre/intra to reduce muscle breakdown.",
+                "post_workout": "20\u201340 g protein + 1\u20131.5 g/kg carbs within 2 hr."
+            },
+            "hydration": "35\u201345 ml/kg/day water. Black coffee, tea, and zero-calorie drinks are fasting-friendly. Electrolytes recommended in long fasted states with heavy sweating."
+        },
+        "food_quality_examples": {
+            "protein": [
+                "Chicken",
+                "Turkey",
+                "Lean beef",
+                "Fish",
+                "Eggs",
+                "Greek yogurt",
+                "Cottage cheese",
+                "Whey/plant protein",
+                "Tofu",
+                "Tempeh"
+            ],
+            "carbohydrates": [
+                "Rice",
+                "Oats",
+                "Quinoa",
+                "Potatoes",
+                "Whole-grain pasta/bread",
+                "Fruits",
+                "Vegetables",
+                "Legumes"
+            ],
+            "fats": [
+                "Avocado",
+                "Nuts",
+                "Seeds",
+                "Olive oil",
+                "Fatty fish"
+            ],
+            "calorie_dense_if_friendly": [
+                "Smoothies",
+                "Nut butters",
+                "Trail mix",
+                "Wraps",
+                "Rice bowls"
+            ]
+        },
+        "supplements_optional": [
+            "Creatine Monohydrate (3\u20135 g/day) \u2013 Strong evidence for strength & lean mass.",
+            "Whey/Plant Protein Powder \u2013 Helps reach protein goals within short window.",
+            "Vitamin D & Omega-3 \u2013 Useful if diet lacks exposure or fish intake.",
+            "Electrolytes \u2013 Beneficial in fasted training + hot climates.",
+            "Caffeine (3\u20136 mg/kg pre-workout) \u2013 Supports performance during fasting."
+        ],
+        "monitoring_adjustments": {
+            "body_weight": "Weekly average \u2013 Adjust calories if <0.25% or >0.5% gain/week.",
+            "strength_progress": "Weekly \u2013 If stagnating, increase calories or adjust workout timing.",
+            "body_composition": "Every 4\u20136 weeks \u2013 Track via photos, BIA, or skinfolds."
+        },
+        "advantages": [
+            "May improve insulin sensitivity & nutrient partitioning.",
+            "Simplifies eating schedule (less meal prep).",
+            "Supports lean bulk by limiting snacking & overeating.",
+            "Can be sustainable for those who prefer large, satisfying meals."
+        ],
+        "limitations": [
+            "Hitting calorie targets can be difficult in 8-hour window (especially for hard gainers).",
+            "Less flexibility for social meals outside window.",
+            "Training fasted may impair performance for some individuals.",
+            "Requires attention to protein distribution for optimal muscle growth."
+        ],
+        "scientific_references": [
+            "Morton RW et al. (2018). Protein supplementation on resistance training-induced gains in muscle mass and strength. Br J Sports Med, 52(6):376\u2013384.",
+            "Tinsley GM & La Bounty PM (2015). Effects of intermittent fasting on body composition and clinical health markers. J Int Soc Sports Nutr, 12:47.",
+            "Schoenfeld BJ & Aragon AA (2018). How much protein can the body use in a single meal for muscle-building? J Int Soc Sports Nutr, 15:10.",
+            "Kerksick CM et al. (2017). ISSN position stand: nutrient timing. J Int Soc Sports Nutr, 14:33.",
+            "American College of Sports Medicine (2022). Nutrition and Athletic Performance Position Stand."
+        ]
+    }
+}

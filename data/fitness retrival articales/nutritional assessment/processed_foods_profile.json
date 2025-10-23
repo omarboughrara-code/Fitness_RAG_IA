@@ -1,0 +1,80 @@
+{
+    "profile": "Processed Foods: Types, Risks, and Evidence",
+    "scientific_profile": {
+        "examples": [
+            "Crisps, cheese puffs, pretzels",
+            "Candies, chocolate bars, packaged desserts, pastries",
+            "Sugary cereals (e.g., Frosted Flakes, Cocoa Pops, Lucky Charms)",
+            "White bread, doughnuts, croissants, cakes",
+            "Fast food: burgers, nuggets, hot dogs, pizza",
+            "Processed meats: sausages, bacon, deli meats, pepperoni",
+            "Instant/ready meals: instant noodles, frozen pizzas, microwavable meals",
+            "Sweetened beverages: soda, energy drinks, sweetened juices",
+            "Other snacks: flavored popcorn, granola bars, crackers"
+        ],
+        "dangerous_effects": {
+            "high_added_sugars": {
+                "effects": [
+                    "Cause blood sugar spikes and crashes \u2192 fatigue, cravings, poor recovery",
+                    "Excess sugar increases fat storage, especially visceral fat",
+                    "Linked to insulin resistance and type 2 diabetes"
+                ],
+                "evidence": [
+                    "Malik et al. (2010). High sugar intake increases risk of type 2 diabetes and cardiovascular disease. Diabetes Care."
+                ]
+            },
+            "high_sodium_content": {
+                "effects": [
+                    "Excess sodium increases high blood pressure and cardiovascular strain",
+                    "In athletes: can cause water retention and poor recovery"
+                ],
+                "evidence": [
+                    "Mozaffarian et al. (2014). High sodium diets increase hypertension and CVD risk. NEJM."
+                ]
+            },
+            "unhealthy_fats": {
+                "effects": [
+                    "Increase LDL cholesterol, inflammation, and cardiovascular disease risk",
+                    "Suppress testosterone and impair recovery when overconsumed"
+                ],
+                "evidence": [
+                    "Mozaffarian et al. (2006). Trans fats linked to higher cardiovascular mortality. NEJM."
+                ]
+            },
+            "low_nutrient_density": {
+                "effects": [
+                    "Energy-dense, nutrient-poor \u2192 deficiencies in vitamins, minerals, fiber",
+                    "Low satiety \u2192 overeating and weight gain"
+                ],
+                "evidence": [
+                    "Hall et al. (2019). Ultra-processed foods promote excess calorie intake. Cell Metabolism."
+                ]
+            },
+            "additives_and_preservatives": {
+                "effects": [
+                    "Emulsifiers, colorings, artificial sweeteners can alter gut microbiome",
+                    "Gut imbalance linked to inflammation, obesity, metabolic dysfunction"
+                ],
+                "evidence": [
+                    "Chassaing et al. (2015). Some emulsifiers promote gut inflammation. Nature."
+                ]
+            },
+            "sleep_and_recovery_impact": {
+                "effects": [
+                    "High sugar and fat processed foods disturb sleep quality",
+                    "Evening consumption delays melatonin production and reduces sleep depth"
+                ],
+                "evidence": [
+                    "St-Onge et al. (2016). Processed food diets linked to poor sleep quality. Curr Opin Clin Nutr Metab Care."
+                ]
+            }
+        },
+        "summary": {
+            "metabolic": "Weight gain, insulin resistance, diabetes",
+            "cardiovascular": "Hypertension, high LDL, heart disease",
+            "hormonal": "Lower testosterone, poor recovery",
+            "performance": "Fatigue, cravings, poor glycogen management",
+            "long_term_health": "Cancer risk (processed meats), premature mortality"
+        }
+    }
+}

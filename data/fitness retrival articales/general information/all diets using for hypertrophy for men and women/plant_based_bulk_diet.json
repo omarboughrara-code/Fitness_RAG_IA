@@ -1,0 +1,104 @@
+{
+    "name": "Plant-Based / Vegan Bulk Diet",
+    "goal": "Lean muscle hypertrophy and strength development while following a 100% plant-based (vegan) diet.",
+    "best_for": [
+        "Vegan athletes",
+        "Plant-based lifestyle individuals",
+        "Lifters with dairy/egg allergies"
+    ],
+    "caloric_strategy": {
+        "maintenance": "Estimate TDEE using Mifflin-St Jeor or Cunningham equation. Adjust with empirical weight tracking.",
+        "surplus": "10\u201320% above TDEE (~250\u2013500 kcal/day)",
+        "target_gain": "0.25\u20130.5% body weight per week (~0.2\u20130.5 kg for an 80 kg individual)",
+        "note": "Use calorie-dense whole foods to overcome high fiber satiety effects."
+    },
+    "macronutrients": {
+        "protein": {
+            "intake": "1.8\u20132.7 g/kg/day",
+            "rationale": "Higher than omnivores due to digestibility and amino acid profile. Combine sources."
+        },
+        "carbohydrates": {
+            "intake": "4\u20137 g/kg/day",
+            "rationale": "Fuel training and glycogen replenishment."
+        },
+        "fats": {
+            "intake": "20\u201330% of total calories",
+            "rationale": "Ensure omega-3s (ALA and algae-based DHA/EPA)."
+        },
+        "fiber": {
+            "intake": "30\u201345 g/day"
+        },
+        "leucine": {
+            "intake": "2\u20133 g per meal",
+            "rationale": "Trigger muscle protein synthesis."
+        }
+    },
+    "meal_timing": {
+        "meals_per_day": "4\u20136 evenly spaced with 20\u201340 g protein each",
+        "pre_workout": {
+            "2_3h_before": "Carbs + protein (e.g., lentil pasta + tofu)",
+            "30_60min_before": "Optional quick carbs (banana, dates, smoothie)"
+        },
+        "post_workout": "20\u201340 g protein (soy shake, seitan wrap) + 1\u20131.2 g/kg carbs",
+        "hydration": "35\u201345 ml/kg/day"
+    },
+    "food_sources": {
+        "protein": [
+            "Soy (tofu, tempeh, soy protein)",
+            "Seitan",
+            "Legumes (lentils, chickpeas, beans)",
+            "Quinoa, amaranth, buckwheat",
+            "Pea/rice/hemp protein blends"
+        ],
+        "carbohydrates": [
+            "Oats, rice, quinoa, potatoes",
+            "Whole-grain bread/wraps",
+            "Fruits and vegetables",
+            "Legume pasta"
+        ],
+        "fats": [
+            "Avocado, olives, olive oil",
+            "Nuts and seeds (chia, flax, hemp, pumpkin)",
+            "Nut butters"
+        ],
+        "calorie_dense": [
+            "Trail mix",
+            "Smoothies with nut butter + oats + protein",
+            "Hummus with bread",
+            "Protein bars"
+        ]
+    },
+    "supplements": [
+        "Creatine monohydrate 3\u20135 g/day",
+        "Protein powders (soy, pea-rice blends)",
+        "Vitamin B12",
+        "Vitamin D",
+        "Omega-3 DHA/EPA (algae oil)",
+        "Iron & Zinc (if needed)"
+    ],
+    "monitoring": {
+        "weight": "Weekly average",
+        "strength": "Track weekly progression",
+        "body_composition": "Every 4\u20136 weeks",
+        "micronutrients": "Every 6\u201312 months bloodwork for B12, iron, vitamin D, omega-3"
+    },
+    "advantages": [
+        "Supports hypertrophy without animal products",
+        "Rich in fiber and phytonutrients",
+        "Can reduce inflammation markers",
+        "Ethical and sustainable"
+    ],
+    "limitations": [
+        "Higher food volume may hinder surplus",
+        "Protein quality requires planning",
+        "Some supplementation needed",
+        "Possible digestive discomfort from fiber"
+    ],
+    "references": [
+        "Craddock JC et al. (2016). Nutrition Reviews, 74(12): 726\u2013736.",
+        "Rogerson D. (2017). JISSN, 14:36.",
+        "Morton RW et al. (2018). Br J Sports Med, 52(6):376\u2013384.",
+        "Kerksick CM et al. (2017). JISSN, 14:33.",
+        "ACSM (2022). Nutrition and Athletic Performance Position Stand."
+    ]
+}

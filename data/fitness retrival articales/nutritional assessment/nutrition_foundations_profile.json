@@ -1,0 +1,81 @@
+{
+    "profile": "Nutrition Foundations: Evidence-Based Roles of Food Groups",
+    "scientific_profile": {
+        "fruits": {
+            "importance": [
+                "Rich in vitamins (C, A, folate), minerals (potassium, magnesium), and antioxidants (polyphenols, flavonoids).",
+                "Provide natural sugars for glycogen replenishment after exercise.",
+                "High water content supports hydration."
+            ],
+            "key_effects": [
+                "Antioxidants reduce oxidative stress and inflammation, supporting recovery.",
+                "High fiber improves digestion and gut microbiome balance.",
+                "Certain fruits (bananas, kiwis, tart cherries) have sleep and recovery benefits."
+            ],
+            "evidence": [
+                "Howatson et al. (2012). Tart cherry improves recovery and sleep. Eur J Nutr.",
+                "Lin et al. (2011). Kiwi improved sleep onset. Asia Pac J Clin Nutr."
+            ]
+        },
+        "vegetables": {
+            "importance": [
+                "Low-calorie, high in fiber, vitamins, and phytonutrients.",
+                "Provide nitrates (beets, spinach) that enhance blood flow and endurance."
+            ],
+            "key_effects": [
+                "Cruciferous vegetables support detoxification and hormone balance.",
+                "Nitrate-rich vegetables increase nitric oxide, improving VO2 max and endurance.",
+                "Antioxidant and anti-inflammatory effects enhance recovery and immunity."
+            ],
+            "evidence": [
+                "Lansley et al. (2011). Beetroot juice improves endurance. J Appl Physiol.",
+                "Aune et al. (2017). High vegetable intake reduces chronic disease risk. Int J Epidemiol."
+            ]
+        },
+        "proteins": {
+            "importance": [
+                "Source of essential amino acids (EAAs), especially leucine for muscle protein synthesis.",
+                "Supports repair, recovery, and lean mass preservation during fat loss."
+            ],
+            "key_effects": [
+                "Post-exercise protein (20\u201340 g with 2\u20133 g leucine) stimulates maximal MPS.",
+                "Casein before bed improves overnight recovery.",
+                "High protein diets increase satiety and thermogenesis."
+            ],
+            "evidence": [
+                "Moore et al. (2009). 20\u201325 g whey stimulates MPS. J Appl Physiol.",
+                "Res et al. (2012). Casein before sleep enhances overnight MPS. Med Sci Sports Exerc."
+            ]
+        },
+        "grains": {
+            "importance": [
+                "Provide complex carbohydrates, fiber, B vitamins, iron, magnesium.",
+                "Main source of glycogen replenishment for athletes."
+            ],
+            "key_effects": [
+                "Whole grains stabilize blood sugar and improve satiety.",
+                "Fiber improves gut health and lowers LDL cholesterol.",
+                "Timing: post-exercise carbs (1\u20131.2 g/kg/hr for 4\u20136 hrs) maximize glycogen resynthesis."
+            ],
+            "evidence": [
+                "Ivy et al. (1988). Post-exercise carbs accelerate glycogen replenishment. J Appl Physiol.",
+                "Aune et al. (2016). Whole grain intake reduces disease risk. BMJ."
+            ]
+        },
+        "fats": {
+            "importance": [
+                "Essential for hormone production, cell membranes, and brain function.",
+                "Omega-3 fatty acids reduce inflammation and improve recovery."
+            ],
+            "key_effects": [
+                "Adequate fats (20\u201335% of calories) support testosterone and growth hormone.",
+                "Omega-3 supplementation improves muscle recovery and reduces DOMS.",
+                "Monounsaturated fats (olive oil, nuts) support cardiovascular health."
+            ],
+            "evidence": [
+                "Jouris et al. (2011). Omega-3 reduces inflammation and aids recovery. J Diet Suppl.",
+                "Estruch et al. (2013). Mediterranean diet lowers mortality. NEJM."
+            ]
+        }
+    }
+}

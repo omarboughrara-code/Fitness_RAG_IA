@@ -1,0 +1,107 @@
+{
+    "diet_style": "Mediterranean (Calorie-Restricted)",
+    "scientific_profile": {
+        "purpose_overview": {
+            "goal": "Support sustainable fat loss, metabolic health, and cardiovascular protection by applying a moderate caloric deficit to the nutrient-rich Mediterranean dietary pattern.",
+            "approach": "Base meals on whole, plant-forward foods, olive oil as the main fat, moderate fish/poultry, minimal red/processed meat, and calorie control (\u224815\u201325% below TDEE).",
+            "best_for": [
+                "Individuals seeking fat loss with high dietary adherence",
+                "Those prioritizing cardiovascular/metabolic health",
+                "People preferring flexible, food-varied, lifestyle-oriented eating",
+                "Long-term sustainable weight management rather than rapid cuts"
+            ],
+            "why_it_works": "The Mediterranean diet is among the most scientifically supported eating patterns for longevity, cardiometabolic health, and satiety. When paired with calorie restriction, it promotes fat loss while maintaining nutrient sufficiency."
+        },
+        "caloric_strategy": {
+            "maintenance_calculation": "Determine TDEE (Mifflin-St Jeor, Cunningham, or wearable devices).",
+            "fat_loss": "15\u201325% below TDEE, adjusting based on rate of loss (0.5\u20131% body weight per week).",
+            "muscle_gain": "Not primary focus, but lean gains possible with sufficient protein and resistance training.",
+            "body_recomposition": "At maintenance calories, protein prioritization + training can support body composition improvement."
+        },
+        "macronutrient_breakdown": {
+            "protein": "1.6\u20132.2 g/kg/day, from fish, poultry, legumes, yogurt, and eggs.",
+            "carbohydrates": "45\u201355% of kcal from whole grains, fruits, vegetables, legumes.",
+            "fats": "25\u201335% of kcal (majority unsaturated, from olive oil, nuts, seeds, fatty fish).",
+            "fiber": "30\u201345 g/day from fruits, vegetables, legumes, and whole grains."
+        },
+        "meal_timing_distribution": {
+            "meals": "3 main meals + 1\u20132 snacks within feeding window.",
+            "protein_distribution": "0.3\u20130.45 g/kg per meal.",
+            "pre_workout": "Carb-rich snack or meal (fruits + whole grains) 1\u20133 hours prior.",
+            "post_workout": "Balanced meal with lean protein + carbs (e.g., grilled fish, quinoa, vegetables).",
+            "evening_meal": "Vegetable-rich, healthy fats, moderate protein typical of Mediterranean dinners.",
+            "hydration": "Prioritize water; moderate coffee/tea; optional red wine (not advised for everyone)."
+        },
+        "food_quality_examples": {
+            "protein": [
+                "Fish",
+                "Seafood",
+                "Poultry",
+                "Eggs",
+                "Legumes",
+                "Chickpeas",
+                "Greek yogurt",
+                "Cottage cheese"
+            ],
+            "carbohydrates": [
+                "Whole grains",
+                "Oats",
+                "Brown rice",
+                "Barley",
+                "Quinoa",
+                "Fruits",
+                "Vegetables",
+                "Potatoes"
+            ],
+            "fats": [
+                "Olive oil",
+                "Nuts (almonds, walnuts)",
+                "Seeds (chia, flax, sunflower)",
+                "Avocado",
+                "Fatty fish (salmon, sardines)"
+            ],
+            "extras": [
+                "Herbs",
+                "Spices",
+                "Garlic",
+                "Tomatoes",
+                "Leafy greens",
+                "Small portions of cheese",
+                "Minimal red/processed meat"
+            ]
+        },
+        "supplements_optional": [
+            "Protein Powder (Whey/Plant) \u2013 Supports protein intake.",
+            "Creatine Monohydrate (3\u20135 g/day) \u2013 Strength, recovery, lean mass.",
+            "Omega-3 (Fish/Algae Oil) \u2013 If fatty fish <2x/week.",
+            "Vitamin D3 \u2013 Supports bone and immune health.",
+            "Multivitamin \u2013 Insurance for micronutrient sufficiency."
+        ],
+        "monitoring_adjustments": {
+            "body_weight": "Weekly average \u2013 Adjust calories by 5\u201310% if no progress for 2+ weeks.",
+            "strength_performance": "Weekly \u2013 Ensure adequate carbs for training energy.",
+            "satiety_energy": "Ongoing \u2013 Increase protein/fiber-rich foods if hunger persists.",
+            "blood_work": "Every 6\u201312 months \u2013 Monitor cholesterol, glucose, and vitamin D."
+        },
+        "advantages": [
+            "Strong evidence base for long-term health and disease prevention.",
+            "Flexible and highly sustainable for long-term adherence.",
+            "Nutrient-dense, fiber-rich, satiety-promoting.",
+            "Cardioprotective due to unsaturated fats, polyphenols, and plant diversity.",
+            "Culturally adaptable and inclusive of many food preferences."
+        ],
+        "limitations": [
+            "Weight loss may be slower compared to stricter approaches (e.g., keto, low-carb).",
+            "Requires portion control with calorie-dense foods (olive oil, nuts).",
+            "Moderate alcohol intake (wine) not advisable for everyone.",
+            "Can be costlier than processed-food-heavy diets."
+        ],
+        "scientific_references": [
+            "Estruch R et al. (2018). Primary prevention of cardiovascular disease with a Mediterranean diet. N Engl J Med, 378:e34.",
+            "Sofi F et al. (2014). Mediterranean diet and health status: updated meta-analysis. Public Health Nutr, 17(12):2769\u20132782.",
+            "Mart\u00ednez-Gonz\u00e1lez MA & Bes-Rastrollo M (2014). Dietary patterns, Mediterranean diet, and cardiovascular disease. Curr Opin Lipidol, 25(1):20\u201326.",
+            "Davis C et al. (2015). Mediterranean diet and cardiovascular disease prevention. Prog Cardiovasc Dis, 58(1):50\u201360.",
+            "Willett WC et al. (1995). Mediterranean diet pyramid: a cultural model for healthy eating. Am J Clin Nutr, 61(6 Suppl):1402S\u20131406S."
+        ]
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "profile": "Nutrition & Lifestyle Protocol to Improve Sleep",
+    "scientific_profile": {
+        "importance_of_sleep": [
+            "Supports muscle recovery, hormone balance, and brain repair",
+            "Poor sleep increases cortisol and appetite, decreases testosterone and growth hormone",
+            "Both nutrition and light exposure shape circadian rhythm"
+        ],
+        "nutrition_strategy": {
+            "carbohydrates": {
+                "role": "Evening carbs enhance tryptophan transport \u2192 serotonin \u2192 melatonin",
+                "dinner_target": "1\u20132 g/kg complex carbs",
+                "sources": [
+                    "Quinoa",
+                    "Oats",
+                    "Sweet potato",
+                    "Rice"
+                ],
+                "evidence": "Afaghi et al. (2007). High-GI carbs shorten sleep onset latency."
+            },
+            "proteins": {
+                "role": "Provides tryptophan, glycine, and GABA precursors",
+                "dinner_target": "0.3\u20130.5 g/kg",
+                "pre_bed": "Casein protein improves overnight recovery",
+                "note": "Glycine (3 g) improves sleep efficiency",
+                "sources": [
+                    "Greek yogurt",
+                    "Cottage cheese",
+                    "Turkey",
+                    "Eggs",
+                    "Legumes"
+                ]
+            },
+            "fats": {
+                "role": "Supports hormone function, omega-3 improves sleep quality",
+                "guideline": "Include omega-3 but avoid very high-fat meals late",
+                "sources": [
+                    "Salmon",
+                    "Walnuts",
+                    "Chia seeds",
+                    "Flax seeds"
+                ]
+            }
+        },
+        "micronutrients_bioactives": [
+            {
+                "nutrient": "Magnesium",
+                "role": "Reduces cortisol, aids melatonin",
+                "dose": "300\u2013400 mg/day",
+                "sources": [
+                    "Pumpkin seeds",
+                    "Spinach",
+                    "Almonds"
+                ],
+                "evidence": "Abbasi et al. (2012)"
+            },
+            {
+                "nutrient": "Zinc",
+                "role": "Supports neurotransmitters",
+                "dose": "10\u201325 mg/day",
+                "sources": [
+                    "Seafood",
+                    "Nuts",
+                    "Seeds"
+                ],
+                "evidence": "Rondanelli et al. (2011)"
+            },
+            {
+                "nutrient": "Vitamin D",
+                "role": "Regulates sleep duration and quality",
+                "dose": "1000\u20132000 IU/day if deficient",
+                "sources": [
+                    "Sunlight",
+                    "Egg yolks",
+                    "Fortified dairy"
+                ],
+                "evidence": "Gao et al. (2018)"
+            },
+            {
+                "nutrient": "Tryptophan",
+                "role": "Melatonin precursor",
+                "sources": [
+                    "Turkey",
+                    "Dairy",
+                    "Oats",
+                    "Seeds"
+                ],
+                "evidence": "Silber & Schmitt (2010)"
+            },
+            {
+                "nutrient": "Tart cherry",
+                "role": "Natural melatonin source",
+                "dose": "240 ml juice or extract",
+                "evidence": "Howatson et al. (2012)"
+            },
+            {
+                "nutrient": "L-theanine",
+                "role": "Promotes relaxation",
+                "dose": "200\u2013400 mg",
+                "sources": [
+                    "Green tea extract"
+                ],
+                "evidence": "Lyon et al. (2011)"
+            }
+        ],
+        "meal_timing_protocol": {
+            "dinner": "2\u20133 h before bed: balanced protein + complex carbs + vegetables + healthy fats",
+            "example_dinner": "Salmon + quinoa + broccoli + olive oil",
+            "pre_bed_snack": "30\u201360 min before bed: casein protein + tryptophan carb + magnesium-rich food",
+            "example_snack": "Cottage cheese + kiwi + pumpkin seeds",
+            "avoid": [
+                "Caffeine after 3 pm",
+                "Alcohol at night",
+                "Large high-fat meals late"
+            ],
+            "hydration": "Avoid excess fluids right before bed"
+        },
+        "blue_light_protocol": {
+            "importance": "Blue light suppresses melatonin via circadian signaling",
+            "protocol": [
+                "Avoid screens 60\u201390 min before bed",
+                "If unavoidable: use night shift/blue filter mode",
+                "Wear blue-blocking glasses in evening",
+                "Switch to warm/amber lights",
+                "Do calming activities: journaling, reading, stretching, herbal tea",
+                "Get 10\u201320 min morning sunlight exposure to anchor circadian rhythm"
+            ],
+            "evidence": [
+                "Cajochen et al. (2011): Evening blue light delays melatonin onset",
+                "Burkhart & Phelps (2009): Blue-blocking glasses improve sleep quality"
+            ]
+        },
+        "combined_night_routine": [
+            "Dinner: protein + complex carbs + vegetables + healthy fats",
+            "Pre-bed snack: casein protein + tryptophan-rich carb + magnesium-rich food",
+            "Herbal tea (chamomile, lemon balm, valerian)",
+            "Screens off 1 h before bed, amber lights if needed",
+            "Relaxing routine: reading or stretching",
+            "Bedroom cool, dark, and quiet",
+            "Morning sunlight within 30 min of waking"
+        ],
+        "scientific_references": [
+            "Afaghi A et al. (2007). High-glycemic-index carbohydrate meals shorten sleep onset. Am J Clin Nutr.",
+            "Yamadera W et al. (2007). Glycine ingestion improves sleep quality. Sleep Biol Rhythms.",
+            "Abbasi B et al. (2012). Magnesium supplementation improves insomnia. J Res Med Sci.",
+            "Howatson G et al. (2012). Tart cherry juice improves sleep quality. Eur J Nutr.",
+            "Cajochen C et al. (2011). Evening blue light delays melatonin onset. J Appl Physiol.",
+            "Burkhart K & Phelps JR (2009). Amber lenses improve sleep. Chronobiol Int."
+        ]
+    }
+}
